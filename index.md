@@ -5,6 +5,8 @@ En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence H
 En 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.<br />
 J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre.
 
+Mon CV est disponible ici : [CV Matthieu Bart](./cv-matthieu-bart.pdf){:target="_blank" rel="noopener"}
+
 ## Projets
 ---
 
