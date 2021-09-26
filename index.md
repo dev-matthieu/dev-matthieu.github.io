@@ -1,8 +1,9 @@
-J'ai commencé le développement il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
+J'ai commencé le développement informatique il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
 
-En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
+En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été pris en CDI.
 
 En 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.
+
 J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre. 
 
 ## Projets
@@ -11,7 +12,7 @@ Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différe
 
 Cette page présente quelques projets sur lesquels j'ai travaillé.
 
-Des captures d'écrans et des compléments d'informations sont disponible sur le site de l'[agence Highfive](https://www.highfive.fr){:target="_blank" rel="noopener"}
+Des captures d'écrans et des compléments d'informations sont disponible sur le site de l'[agence Highfive](https://www.highfive.fr){:target="_blank" rel="noopener"}.
 
 ### Liste des projets
 
@@ -39,6 +40,37 @@ Le framework Laravel a été utilisé pour ce projet.
 
 [extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
 
+#### Calendrier des brocantes (admin)
+
+Reprise du projet développé par un autre développeur de l'agence.
+Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance
+
+Sur ce projet : 
+
+- Gestion de manifestations/événements
+- Gestion des organisateurs/utilisateurs
+- Envoi de mails personnalisés
+- Webservice pour afficher les manifestations sur calendrier-des-brocantes.com
+
+Le framework Laravel a été utilisé pour ce projet.
+
+[orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
+
+#### Espace producteur Terroirs de Lait (Savencia)
+
+Reprise du projet développé par un autre développeur de l'agence. 
+Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
+
+Sur cet espace producteur : 
+
+- Import de données de données à partir de fichiers CSV, de fichiers PDF, 
+- Affichage des données pour les producteurs,
+- Liaison avec un WordPress qui est affiché uniquement pour les producteurs connectés à leurs espaces
+
+Le framework Laravel a été utilisé pour ce projet.
+
+[pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/){:target="_blank" rel="noopener"}
+
 #### Espace membre du Pôle Hippolia <a name="back-espace-membre-pole-hippolia"></a>
 
 Création d'une application web à disposition des membres du Pole Hippolia.
@@ -54,21 +86,6 @@ Sur cet espace membre :
 Le framework Symfony a été utilisé pour ce projet.
 
 [espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
-
-#### Espace producteur Terroirs de Lait (Savencia) <
-
-Reprise du projet développé par un autre développeur de l'agence. 
-Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
-
-Sur cet espace producteur : 
-
-- Import de données de données à partir de fichiers CSV, de fichiers PDF, 
-- Affichage des données pour les producteurs,
-- Liaison avec un WordPress qui est affiché uniquement pour les producteurs connectés à leurs espaces
-
-Le framework Laravel a été utilisé pour ce projet.
-
-[pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/){:target="_blank" rel="noopener"}
 
 #### Extranet du CEMC
 
@@ -87,26 +104,10 @@ Le framework Symfony a été utilisé pour ce projet.
 
 [extranet.cemc.fr](https://extranet.cemc.fr/){:target="_blank" rel="noopener"}
 
-#### Calendrier des brocantes (admin)
-
-Reprise du projet développé par un autre développeur de l'agence.
-Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance
-
-Sur ce projet : 
-
-- Gestion de manifestations/événements
-- Gestion des organisateurs/utilisateurs
-- Envoi de mails personnalisés
-- Webservice pour afficher les manifestations sur calendrier-des-brocantes.com
-
-Le framework Laravel a été utilisé pour ce projet.
-
-[orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
-
 #### Autres
 
-J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie. 
-Ces projets ne sont plus disponibles. 
+J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie.__
+Ces projets ne sont plus disponibles.__
 Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
 ---
