@@ -1,19 +1,90 @@
-## Développeur web
+J'ai commencé le développement il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
 
-You can use the [editor on GitHub](https://github.com/dev-matthieu/dev-matthieu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différentes typologies de projets pour différents clients. 
 
-### Markdown
+Cette page présente quelques projets sur lesquels j'ai travaillé.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Projets
+
+## Back (Framework PHP)
+
+### Extranet Coopcreully
+
+### Espace membre du Pôle Hippolia
+
+### Espace producteur Terroirs de Lait (Savencia)
+
+### Extranet du CEMC
+
+
+
+### Calendrier des brocantes (admin)
+Reprise du code du projet
+
+------------------------------------------------------------------------------------------------
+
+## Front (WordPress, Intégration)
+
+### Calvados Tourisme & Vivre dans le Calvados
+
+### Baclesse
+
+### Chemins de la Baie (en développement)
+
+### Calendrier des brocantes 
+
+### Terroirs de Lait
+
+### Mon Stage dans la Manche
+
+### Ma vie dans la Manche
+
+### Normandinamik
+
+### Dejamobile 
+
+### Caen Normandie Développement
+
+### Pôle TES
+
+### Normandie Aménagement
+
+### Caen evenements
+
+### Fédération des guides de Normandie
+
+### Adepta
+
+### Calvados
+
+Intégration HTML, CSS, JS des maquettes pour Calvados
+
+### Festou (Intérim & Recrutement)
+
+### Autres 
+
+- Centre aquatique Auréo
+- Le journal de Suzon (Mémorial)
+
+----------------------------------------------------------------------------------------------------
+
+## Autres
+
+J'ai aussi travaillé sur des projets d'applications mobiles. 
+
+### Application mobile GéoMares
+
+### Application mobile Mémorial Rockwell : Audioguide
+
+Développer en React Native
+
+### Application mobile Mémorial
+
+### Application mobile Mam'route
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -25,13 +96,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dev-matthieu/dev-matthieu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
