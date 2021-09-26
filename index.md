@@ -12,16 +12,79 @@ Cette page présente quelques projets sur lesquels j'ai travaillé.
 
 ### Extranet Coopcreully
 
+Création d'une application web à disposition des adhérents de la Coopérative agricole à Creully. 
+
+Sur cet extranet : 
+- des données sont importés chaque jours à partir de fichiers CSV, 
+- les données importées sont affichées pour les adhérents, certaines données sont propres à chaque adhérent et d'autres sont communes à tous les adhérents
+- des données provenant de fichiers CSV sont aussi affichés en direct, 
+- des données provenant d'un WordPress sont aussi affichés.  
+
+Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer facilement du contenu sur l'extranet est pertinente car il y a aussi un site WordPress pour présenter la Coopcreully.
+
+Le framework Laravel a été utilisé pour ce projet.
+
 ### Espace membre du Pôle Hippolia
+
+Création d'une application web à disposition des membres du Pole Hippolia.
+
+Sur cet espace membre : 
+
+- Gestion des utilisateurs,
+- Gestion des documents,
+- Gestion des catégories de documents,
+- Gestion des droits des utilisateurs par catégories de documents,
+- Mis en place d'un webservice pour afficher les membres sur le site internet du Pôle Hippolia.
+
+Le framework Symfony a été utilisé pour ce projet.
 
 ### Espace producteur Terroirs de Lait (Savencia)
 
+Reprise du projet développé par un autre développeur de l'agence. 
+Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
+
+Sur cet espace producteur : 
+
+- Import de données de données à partir de fichiers CSV, de fichiers PDF, 
+- Affichage des données pour les producteurs,
+- Liaison avec un WordPress qui est affiché uniquement pour les producteurs connectés à leurs espaces
+
+Le framework Laravel a été utilisé pour ce projet.
+
 ### Extranet du CEMC
 
+Reprise du projet développé par un autre développeur de l'agence. 
+Je me suis occupé de la finalisation du projet (développement des dernières fonctionnalités, corrections des bugs, mise en ligne). Je m'occupe maintenant des différentes demandes d'évolutions et de la maintenance de cet extranet.
 
+Sur cet extranet : 
+- Gestion d'un calendrier des cours
+- Gestion des utilisateurs
+- Gestion d'une médiathèque 
+- Gestion d'une messagerie
+- Gestion administratives (factures profs, ...)
+- Affichage des spectacles de fins d'années (photos, dossiers à télécharger, vidéos)
+
+Le framework Symfony a été utilisé pour ce projet.
 
 ### Calendrier des brocantes (admin)
-Reprise du code du projet
+
+Reprise du projet développé par un autre développeur de l'agence.
+Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance
+
+Sur ce projet : 
+
+- Gestion de manifestations/événements
+- Gestion des organisateurs/utilisateurs
+- Envoi de mails personnalisés
+- Webservice pour afficher les manifestations sur calendrier-des-brocantes.com
+
+Le framework Laravel a été utilisé pour ce projet.
+
+### Autres
+
+J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie. 
+Ces projets ne sont plus disponibles. 
+Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
 ------------------------------------------------------------------------------------------------
 
