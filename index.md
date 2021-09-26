@@ -2,29 +2,35 @@ J'ai commencé le développement il y a une dizaine d'années, je me suis assez 
 
 En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été pris en CDI.
 
-En 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.
-
-J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre. 
+En 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.<br />
+J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre.
 
 ## Projets
+---
 
 Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différentes typologies de projets pour différents clients. 
 
 Cette page présente quelques projets sur lesquels j'ai travaillé.
 
-Des captures d'écrans et des compléments d'informations sont disponible sur le site de l'[agence Highfive](https://www.highfive.fr){:target="_blank" rel="noopener"}.
+_Des captures d'écrans et des compléments d'informations sont disponible sur le site de l'[agence Highfive](https://www.highfive.fr/realisations/){:target="_blank" rel="noopener"}._
 
+<!--
 ### Liste des projets
+---
 
 Nom du projet (explications) | URL du projet
 --- | ---
 [Extranet Coopcreully](#back-extranet-coopcreully) | [extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
 [Espace membre du Pôle Hippolia](#back-espace-membre-pole-hippolia) | [espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
 ...
+-->
 
+---
 ### Back (Framework PHP)
+---
 
 #### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
+---
 
 Création d'une application web à disposition des adhérents de la Coopérative agricole à Creully. 
 
@@ -41,6 +47,7 @@ Le framework Laravel a été utilisé pour ce projet.
 [extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
 
 #### Calendrier des brocantes (admin)
+---
 
 Reprise du projet développé par un autre développeur de l'agence.
 Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance
@@ -57,6 +64,7 @@ Le framework Laravel a été utilisé pour ce projet.
 [orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
 
 #### Espace producteur Terroirs de Lait (Savencia)
+---
 
 Reprise du projet développé par un autre développeur de l'agence. 
 Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
@@ -72,6 +80,7 @@ Le framework Laravel a été utilisé pour ce projet.
 [pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/){:target="_blank" rel="noopener"}
 
 #### Espace membre du Pôle Hippolia <a name="back-espace-membre-pole-hippolia"></a>
+---
 
 Création d'une application web à disposition des membres du Pole Hippolia.
 
@@ -88,6 +97,7 @@ Le framework Symfony a été utilisé pour ce projet.
 [espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
 
 #### Extranet du CEMC
+---
 
 Reprise du projet développé par un autre développeur de l'agence. 
 Je me suis occupé de la finalisation du projet (développement des dernières fonctionnalités, corrections des bugs, mise en ligne). Je m'occupe maintenant des différentes demandes d'évolutions et de la maintenance de cet extranet.
@@ -105,18 +115,20 @@ Le framework Symfony a été utilisé pour ce projet.
 [extranet.cemc.fr](https://extranet.cemc.fr/){:target="_blank" rel="noopener"}
 
 #### Autres
+---
 
 J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie.<br />
 Ces projets ne sont plus disponibles.<br />
 Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
 ---
-
 ### Front (WordPress, Intégration)
+---
 
 Pour la plupart des projets, le CMS WordPress a été utilisé.
 
 #### Calvados Tourisme & Vivre dans le Calvados
+---
 
 Reprise du projet développé par un autre développeur de l'agence.
 Pour le développement de Calvados Tourisme, c'est un autre développeur qui avait commencé à travailler dessus, j'ai été chargé de finaliser le projet et de sa mise en ligne. Sur cette première version du projet, nous utilisions uniquement WordPress.
@@ -142,6 +154,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 - [vivredanslecalvados.com](https://www.vivredanslecalvados.com/){:target="_blank" rel="noopener"}
 
 #### Chemins de la Baie (en développement)
+---
 
 Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
 
@@ -155,6 +168,7 @@ Une partie éditoriale est aussi présente sur le site (Gutenberg).
 _Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible._
 
 #### Calendrier des brocantes 
+---
 
 Développement d'un site sur WoordPress avec de l'e-commerce (WooCommerce) et une laison à un webservice.
 
@@ -171,6 +185,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 [calendrier-des-brocantes.com](https://calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
 
 #### Centre François Baclesse
+---
 
 Refonte du site du centre de lutte contre le cancer de Caen.
 
@@ -179,6 +194,7 @@ Nous sommes ici sur un site "vitrine" en multilingue (français, anglais). Le cl
 [www.baclesse.fr](https://www.baclesse.fr/){:target="_blank" rel="noopener"}
 
 #### Mon Stage dans la Manche
+---
 
 Développement d'une plateforme d'offres de stages, où les lycéens peuvent s'inscrire et postuler à des offres et où les entreprises peuvent proposer des offres de stages, gérer les candidatures.
 
@@ -187,6 +203,7 @@ Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus 
 [stage.maviedanslamanche.fr](https://stage.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
 
 #### Ma vie dans la Manche
+---
 
 Reprise du projet développé par un autre développeur de l'agence.
 
@@ -197,6 +214,7 @@ Parmi, les évolutions, j'ai été amené à développer un import d'offres d'em
 [maviedanslamanche.fr](https://www.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
 
 #### Normandinamik
+---
 
 Refonte d'un site d'articles d'actualités des entreprises et de l'économie en Normandie.
 
@@ -207,6 +225,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 [normandinamik.cci.fr](https://www.normandinamik.cci.fr/){:target="_blank" rel="noopener"}
 
 #### Pôle TES
+---
 
 Développement d'un site éditorial et d'un sous-site d'actualités.
 
@@ -216,6 +235,7 @@ WordPress assez classique, avec ACF et les custom post types.
 - [actualites.pole-tes.com](https://actualites.pole-tes.com/){:target="_blank" rel="noopener"}
 
 #### Fédération des guides de Normandie
+---
 
 Développement d'un site présentation les guides de l'assocation. 
 
@@ -226,6 +246,7 @@ Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, 
 [guidesdenormandie.fr](https://guidesdenormandie.fr/){:target="_blank" rel="noopener"}
 
 #### Adepta
+---
 
 Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
 
@@ -235,6 +256,7 @@ Les sous-sites partage un même thème avec une même typologie de site avec des
 [adepta.com](https://www.adepta.com/){:target="_blank" rel="noopener"}
 
 #### Calvados (intégration HTML, CSS & JS)
+---
 
 Intégration HTML, CSS, JS des maquettes pour le Calvados.
 
@@ -247,6 +269,7 @@ Les gabarits sont utilisés sur plusieurs sites du département.
 [archives.calvados.fr](https://archives.calvados.fr/){:target="_blank" rel="noopener"}
 
 #### Festou (Intérim & Recrutement)
+---
 
 Développement de sites d'offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
 
@@ -254,6 +277,7 @@ Développement de sites d'offres d'emploi saisis dans l'administration du site e
 [festourecrutement.fr](https://www.festourecrutement.fr/){:target="_blank" rel="noopener"}
 
 #### Autres
+---
 
 - [Space Villers](https://www.space-villers.fr/){:target="_blank" rel="noopener"}
 - [Villers-sur-Mer](https://www.villers-sur-mer.fr/){:target="_blank" rel="noopener"}
@@ -266,12 +290,13 @@ Participation au développement, évolutions et maintenance des sites :
 - [Normandie Aménagement](https://www.normandie-amenagement.com/){:target="_blank" rel="noopener"}
 
 ---
-
 ### Autres
+---
 
 J'ai aussi travaillé sur des projets d'applications mobiles. 
 
 #### Application mobile GéoMares
+---
 
 Développement d'une application mobile pour répertorier les mares.
 
@@ -290,6 +315,7 @@ L'application n'est accessible que sur Android pour le moment :
 [Google Play](https://play.google.com/store/apps/details?id=fr.highfive.geomares){:target="_blank" rel="noopener"}
 
 #### Application mobile Mam'route
+---
 
 Développement d'une application mobile pour déclarer les animaux morts sur les routes.
 
@@ -310,11 +336,13 @@ L'application n'est maintenant disponible que sur Android :
 [Google Play](https://play.google.com/store/apps/details?id=com.highfive.mamroute){:target="_blank" rel="noopener"}
 
 #### Autres 
+---
 
 J'ai aussi été amené à travailler sur des applications pour le Mémorial de Caen. 
 _Ces applications ne sont plus disponibles._
 
 ##### Application mobile Mémorial Audioguides
+---
 
 Développement de deux applications mobiles audioguide pour les expositions : 
 
@@ -328,6 +356,7 @@ Ces deux applications mobiles ont été créé avec [React Native](https://react
 _Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/expo-norman-rockwell/){:target="_blank" rel="noopener"}_
 
 ##### Application mobile Mémorial
+---
 
 Développement de l'application du Mémorial de Caen.
 
