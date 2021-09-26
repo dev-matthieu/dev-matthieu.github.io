@@ -1,16 +1,28 @@
+## A propos
+
 J'ai commencé le développement il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
 
 En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
+
+En 2020, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine du calendrier scolaire dans le cadre de la License informatique de la Fac de Caen.
+J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre. 
+
+## Projets
 
 Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différentes typologies de projets pour différents clients. 
 
 Cette page présente quelques projets sur lesquels j'ai travaillé.
 
-# Projets
 
-## Back (Framework PHP)
+### Liste des projets
 
-### Extranet Coopcreully
+Nom du projet | Explications | URL
+--- | --- | ---
+ttt | ttt | ttt
+
+### Back (Framework PHP)
+
+#### Extranet Coopcreully
 
 Création d'une application web à disposition des adhérents de la Coopérative agricole à Creully. 
 
@@ -24,7 +36,7 @@ Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer fa
 
 Le framework Laravel a été utilisé pour ce projet.
 
-### Espace membre du Pôle Hippolia
+#### Espace membre du Pôle Hippolia
 
 Création d'une application web à disposition des membres du Pole Hippolia.
 
@@ -38,7 +50,7 @@ Sur cet espace membre :
 
 Le framework Symfony a été utilisé pour ce projet.
 
-### Espace producteur Terroirs de Lait (Savencia)
+#### Espace producteur Terroirs de Lait (Savencia)
 
 Reprise du projet développé par un autre développeur de l'agence. 
 Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
@@ -51,7 +63,7 @@ Sur cet espace producteur :
 
 Le framework Laravel a été utilisé pour ce projet.
 
-### Extranet du CEMC
+#### Extranet du CEMC
 
 Reprise du projet développé par un autre développeur de l'agence. 
 Je me suis occupé de la finalisation du projet (développement des dernières fonctionnalités, corrections des bugs, mise en ligne). Je m'occupe maintenant des différentes demandes d'évolutions et de la maintenance de cet extranet.
@@ -66,7 +78,7 @@ Sur cet extranet :
 
 Le framework Symfony a été utilisé pour ce projet.
 
-### Calendrier des brocantes (admin)
+#### Calendrier des brocantes (admin)
 
 Reprise du projet développé par un autre développeur de l'agence.
 Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance
@@ -80,19 +92,19 @@ Sur ce projet :
 
 Le framework Laravel a été utilisé pour ce projet.
 
-### Autres
+#### Autres
 
 J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie. 
 Ces projets ne sont plus disponibles. 
 Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
-------------------------------------------------------------------------------------------------
+---
 
-## Front (WordPress, Intégration)
+### Front (WordPress, Intégration)
 
 Pour la plupart des projets, le CMS WordPress a été utilisé
 
-### Calvados Tourisme & Vivre dans le Calvados
+#### Calvados Tourisme & Vivre dans le Calvados
 
 Reprise du projet développé par un autre développeur de l'agence.
 Pour le développement de Calvados Tourisme, c'est un autre développeur qui avait commencé à travailler dessus, j'ai été chargé de finaliser le projet et de sa mise en ligne. Sur cette première version du projet, nous utilisions uniquement WordPress.
@@ -114,7 +126,7 @@ Actuellement, je m'occupe des demandes d'évolutions sur les deux sites et leurs
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-### Chemins de la Baie (en développement)
+#### Chemins de la Baie (en développement)
 
 Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
 
@@ -127,7 +139,7 @@ Une partie éditoriale est aussi présente sur le site (Gutenberg).
 
 Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible.
 
-### Calendrier des brocantes 
+#### Calendrier des brocantes 
 
 Développement d'un site sur WoordPress avec de l'e-commerce (WooCommerce) et une laison à un webservice.
 
@@ -141,19 +153,19 @@ Avant la refonte de Calendrier des brocantes (admin), anciennement Géopuces, c'
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-### Baclesse & Protonthérapie
+#### Baclesse & Protonthérapie
 
 Refonte du site de Baclesse.
 
 Nous sommes ici sur un site "vitrine" en multilingue (français, anglais). Le client a la main sur tous les contenus du site.
 
-### Mon Stage dans la Manche
+#### Mon Stage dans la Manche
 
 Développement d'une plateforme d'offres de stages, où les lycéens peuvent s'inscrire et postuler à des offres et où les entreprises peuvent proposer des offres de stages, gérer les candidatures.
 
 Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus poussée des utilisateurs, de formulaires (déclenchements d'actions suite à la soumission de formulaire), ...
 
-### Ma vie dans la Manche
+#### Ma vie dans la Manche
 
 Reprise du projet développé par un autre développeur de l'agence.
 
@@ -161,7 +173,7 @@ Développement des évolutions sur et maintenance sur celui-ci.
 
 Parmi, les évolutions, j'ai été amené à développer un import d'offres d'emplois venant de l'API de Pole Emploi.
 
-### Normandinamik
+#### Normandinamik
 
 Refonte d'un site des "articles de presse".
 
@@ -169,13 +181,13 @@ Petite particularité, l'ancien site étant sur Drupal, il a fallu développer u
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-### Pôle TES
+#### Pôle TES
 
 Développement d'un site éditorial et d'un sous-site d'actualités. 
 
 WordPress assez classique, avec ACF et les custom post types.
 
-### Fédération des guides de Normandie
+#### Fédération des guides de Normandie
 
 Développement d'un site présentation les guides de l'assocation. 
 
@@ -183,24 +195,24 @@ WordPress éditorial assez classique, où le client a la main sur le contenu.
 
 Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, gérer son planning de disponibilités, créer des événements pour des visites, ...
 
-### Adepta
+#### Adepta
 
 Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
 
 Le site principal a un thème unique avec de l'éditorial, ...
 Les sous-sites partage un même thème avec une même typologie de site avec des couleurs différentes.
 
-### Calvados
+#### Calvados
 
 Intégration HTML, CSS, JS des maquettes pour le Calvados.
 
 Les gabarits sont utilisés sur plusieurs sites du département.
 
-### Festou (Intérim & Recrutement)
+#### Festou (Intérim & Recrutement)
 
-Développement d'un site d'offres d'emploi, avec des offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
+Développement de sites d'offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
 
-### Autres 
+#### Autres 
 
 - Caen Evenements
 - Centre aquatique Auréo
@@ -213,31 +225,18 @@ Participation au développement, évolutions et maintenance des sites :
 - Caen Normandie Développement
 - Normandie Aménagement
 
-----------------------------------------------------------------------------------------------------
+---
 
-## Autres
+### Autres
 
 J'ai aussi travaillé sur des projets d'applications mobiles. 
 
-### Application mobile GéoMares
+#### Application mobile GéoMares
 
-### Application mobile Mémorial Rockwell : Audioguide
+#### Application mobile Mémorial Rockwell : Audioguide
 
 Développer en React Native
 
-### Application mobile Mémorial
+#### Application mobile Mémorial
 
-### Application mobile Mam'route
-
-```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+#### Application mobile Mam'route
