@@ -25,7 +25,7 @@ Nom du projet (explications) | URL du projet
 ...
 -->
 
-### Back (Framework PHP)
+### BACK
 ---
 
 #### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
@@ -120,7 +120,7 @@ J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Mu
 Ces projets ne sont plus disponibles.<br />
 Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
-### Front (WordPress, Intégration)
+### FRONT
 ---
 
 Pour la plupart des projets, le CMS WordPress a été utilisé.
@@ -274,7 +274,7 @@ Développement de sites d'offres d'emploi saisis dans l'administration du site e
 [festou-interim.fr](https://www.festou-interim.fr/){:target="_blank" rel="noopener"}
 [festourecrutement.fr](https://www.festourecrutement.fr/){:target="_blank" rel="noopener"}
 
-#### Autres
+#### Divers
 ---
 
 - [Space Villers](https://www.space-villers.fr/){:target="_blank" rel="noopener"}
@@ -287,7 +287,7 @@ Participation au développement, évolutions et maintenance des sites :
 - [Caen Normandie Développement](https://www.caennormandiedeveloppement.fr/){:target="_blank" rel="noopener"}
 - [Normandie Aménagement](https://www.normandie-amenagement.com/){:target="_blank" rel="noopener"}
 
-### Autres
+### AUTRES
 ---
 
 J'ai aussi travaillé sur des projets d'applications mobiles. 
@@ -332,7 +332,7 @@ L'application n'est maintenant disponible que sur Android :
 
 [Google Play](https://play.google.com/store/apps/details?id=com.highfive.mamroute){:target="_blank" rel="noopener"}
 
-#### Autres 
+#### Divers 
 ---
 
 J'ai aussi été amené à travailler sur des applications pour le Mémorial de Caen. 
