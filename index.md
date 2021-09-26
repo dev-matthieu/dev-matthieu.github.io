@@ -90,46 +90,128 @@ Ils s'agissaient d'espaces privées de partages de documents, de formulaires sp�
 
 ## Front (WordPress, Intégration)
 
+Pour la plupart des projets, le CMS WordPress a été utilisé
+
 ### Calvados Tourisme & Vivre dans le Calvados
 
-### Baclesse
+Reprise du projet développé par un autre développeur de l'agence.
+Pour le développement de Calvados Tourisme, c'est un autre développeur qui avait commencé à travailler dessus, j'ai été chargé de finaliser le projet et de sa mise en ligne. Sur cette première version du projet, nous utilisions uniquement WordPress.
+
+Sur ce projet (Calvados Tourisme) : 
+- Page de sommaires, éditoriales administrables par le client,
+- Import des données/offres du système d'information du Calvados (Tourinsoft)
+- Affichage de listing et de fiches de ces offres
+- Affichage de formulaire lié à Tourinsoft
+
+Pour la deuxième version du projet et le développement de Vivre dans le Calvados, nous avons géré l'import des données grâce à système externe que nous avons développé sur le framework Symfony. Nous avons été deux développeurs à travailler sur celui-ci, mon collègue a élaboré toute la structure et j'ai continué et finalisé les développement.
+
+
+Suite à la sortie de Vivre dans le Calvados, nous avons mis en place le système sur Calvados Tourisme pour que la maintenance de ces deux sites soit plus simple.
+
+Pour la sortie du site Calvados Tourisme, j'ai aussi été amené à developper un jeu concours que nous avons développé sur mesure. Il s'agissait pour l'internaute, de naviguer sur le site et de trouver trois illustrations (et cliquer dessus), une fois qu'il avait trouvé ces trois illustrations, il y avait un formulaire d'inscription.
+
+Actuellement, je m'occupe des demandes d'évolutions sur les deux sites et leurs maintenances.
+
+Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
 ### Chemins de la Baie (en développement)
 
+Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
+
+L'API mis à disposition par une autre société permet plusieurs choses :
+- Récupérer les sorties disponibles pour les traversées de la Baie du Mont-Saint-Michel pour les afficher sur le site,
+- Envoyer les informations de réservations suite à la commande d'un utilisateur sur le site (pour que ces informations soient disponibles dans l'outil de compta du client).
+
+Le WooCommerce permet de gérer toute la partie panier, paiement, gestion du compte.
+Une partie éditoriale est aussi présente sur le site (Gutenberg).
+
+Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible.
+
 ### Calendrier des brocantes 
 
-### Terroirs de Lait
+Développement d'un site sur WoordPress avec de l'e-commerce (WooCommerce) et une laison à un webservice.
+
+Le webservice permet de récupérer les manifestations et les afficher dans des listings et des fiches.
+
+Le WooCommerce permet de commandes des livres papiers du Calendrier des brocantes et de réserver des encarts publicités sur les listings et fiches des manifestations.
+
+Une partie plus éditoriale est aussi présente sur le site pour gérer le blog.
+
+Avant la refonte de Calendrier des brocantes (admin), anciennement Géopuces, c'était une autre société qui nous fournissait le webservice.
+
+Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
+
+### Baclesse & Protonthérapie
+
+Refonte du site de Baclesse.
+
+Nous sommes ici sur un site "vitrine" en multilingue (français, anglais). Le client a la main sur tous les contenus du site.
 
 ### Mon Stage dans la Manche
 
+Développement d'une plateforme d'offres de stages, où les lycéens peuvent s'inscrire et postuler à des offres et où les entreprises peuvent proposer des offres de stages, gérer les candidatures.
+
+Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus poussée des utilisateurs, de formulaires (déclenchements d'actions suite à la soumission de formulaire), ...
+
 ### Ma vie dans la Manche
+
+Reprise du projet développé par un autre développeur de l'agence.
+
+Développement des évolutions sur et maintenance sur celui-ci.
+
+Parmi, les évolutions, j'ai été amené à développer un import d'offres d'emplois venant de l'API de Pole Emploi.
 
 ### Normandinamik
 
-### Dejamobile 
+Refonte d'un site des "articles de presse".
 
-### Caen Normandie Développement
+Petite particularité, l'ancien site étant sur Drupal, il a fallu développer un petit outil pour importer les articles sur le WordPress
+
+Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
 ### Pôle TES
 
-### Normandie Aménagement
+Développement d'un site éditorial et d'un sous-site d'actualités. 
 
-### Caen evenements
+WordPress assez classique, avec ACF et les custom post types.
 
 ### Fédération des guides de Normandie
 
+Développement d'un site présentation les guides de l'assocation. 
+
+WordPress éditorial assez classique, où le client a la main sur le contenu.
+
+Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, gérer son planning de disponibilités, créer des événements pour des visites, ...
+
 ### Adepta
+
+Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
+
+Le site principal a un thème unique avec de l'éditorial, ...
+Les sous-sites partage un même thème avec une même typologie de site avec des couleurs différentes.
 
 ### Calvados
 
-Intégration HTML, CSS, JS des maquettes pour Calvados
+Intégration HTML, CSS, JS des maquettes pour le Calvados.
+
+Les gabarits sont utilisés sur plusieurs sites du département.
 
 ### Festou (Intérim & Recrutement)
 
+Développement d'un site d'offres d'emploi, avec des offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
+
 ### Autres 
 
+- Caen Evenements
 - Centre aquatique Auréo
+- Vital Epargne Immobilier
 - Le journal de Suzon (Mémorial)
+
+Participation au développement, évolutions et maintenance des sites :
+
+- Dejamobile 
+- Caen Normandie Développement
+- Normandie Aménagement
 
 ----------------------------------------------------------------------------------------------------
 
