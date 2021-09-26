@@ -1,10 +1,8 @@
-## A propos
-
 J'ai commencé le développement il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
 
-En juin 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
+En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
 
-En septembre 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.
+En 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.
 J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre. 
 
 ## Projets
@@ -15,13 +13,13 @@ Cette page présente quelques projets sur lesquels j'ai travaillé.
 
 ### Liste des projets
 
-Nom du projet | Explications | URL
---- | --- | ---
-ttt | ttt | ttt
+Nom du projet (& explications) | URL du projet
+--- | ---
+[Extranet Coopcreully](#extranet-coopcreully) | [extranet.coopcreully.com](https://extranet.coopcreully.com/)
 
 ### Back (Framework PHP)
 
-#### Extranet Coopcreully
+#### Extranet Coopcreully <a name="extranet-coopcreully"></a>
 
 Création d'une application web à disposition des adhérents de la Coopérative agricole à Creully. 
 
@@ -37,7 +35,7 @@ Le framework Laravel a été utilisé pour ce projet.
 
 [extranet.coopcreully.com](https://extranet.coopcreully.com/)
 
-#### Espace membre du Pôle Hippolia
+#### Espace membre du Pôle Hippolia <a name="espace-membre-pole-hippolia"></a>
 
 Création d'une application web à disposition des membres du Pole Hippolia.
 
