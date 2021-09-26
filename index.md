@@ -12,9 +12,9 @@ Mon CV est disponible en cliquant sur le lien suivant : [CV Matthieu Bart](./cv-
 
 Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différentes typologies de projets pour différents clients. 
 
-Cette page présente quelques projets sur lesquels j'ai travaillé.
+Cette page décrit quelques projets sur lesquels j'ai travaillé.
 
-_Des captures d'écrans et des compléments d'informations sont disponible sur le site de l'[agence Highfive](https://www.highfive.fr/realisations/){:target="_blank" rel="noopener"}._
+_Des captures d'écrans et des compléments d'informations sont disponible sur le site de [l'agence Highfive](https://www.highfive.fr/realisations/){:target="_blank" rel="noopener"}._
 
 <!--
 ### Liste des projets
@@ -33,15 +33,13 @@ Nom du projet (explications) | URL du projet
 #### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
 ---
 
-Création d'une application web à disposition des adhérents de la Coopérative agricole à Creully. 
+Création d'une application web à disposition des adhérents de la Coopérative agricole de Creully. 
 
 Sur cet extranet : 
 - des données sont importés chaque jours à partir de fichiers CSV, 
-- les données importées sont affichées pour les adhérents, certaines données sont propres à chaque adhérent et d'autres sont communes à tous les adhérents
-- des données provenant de fichiers CSV sont aussi affichés en direct, 
-- des données provenant d'un WordPress sont aussi affichés.  
-
-Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer facilement du contenu sur l'extranet est pertinente car il y a aussi un site WordPress pour présenter la Coopcreully.
+- les données importées sont affichées pour les adhérents, certaines données sont propres à chaque adhérent et d'autres sont communes à tous les adhérents,
+- des données provenant de fichiers CSV sont affichées en direct, 
+- des données provenant d'un WordPress sont aussi affichés. Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer facilement du contenu sur l'extranet est pertinente car il y a aussi un site WordPress pour présenter la Coopcreully.
 
 Le framework Laravel a été utilisé pour ce projet.
 
@@ -50,15 +48,13 @@ Le framework Laravel a été utilisé pour ce projet.
 #### Calendrier des brocantes (admin)
 ---
 
-Reprise du projet développé par un autre développeur de l'agence.
-Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance
+Reprise du projet développé par un autre développeur de l'agence.<br />
+Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance.
 
 Sur ce projet : 
-
 - Gestion de manifestations/événements
 - Gestion des organisateurs/utilisateurs
-- Envoi de mails personnalisés
-- Webservice pour afficher les manifestations sur calendrier-des-brocantes.com
+- Webservice pour afficher les manifestations sur calendrier-des-brocantes.com.
 
 Le framework Laravel a été utilisé pour ce projet.
 
@@ -67,14 +63,14 @@ Le framework Laravel a été utilisé pour ce projet.
 #### Espace producteur Terroirs de Lait (Savencia)
 ---
 
-Reprise du projet développé par un autre développeur de l'agence. 
-Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
+Reprise du projet développé par un autre développeur de l'agence.<br />
+Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production) et de la maintenance.
 
 Sur cet espace producteur : 
 
 - Import de données de données à partir de fichiers CSV, de fichiers PDF, 
 - Affichage des données pour les producteurs,
-- Liaison avec un WordPress qui est affiché uniquement pour les producteurs connectés à leurs espaces
+- Liaison avec un WordPress qui est affiché uniquement pour les producteurs connectés à leur espace.
 
 Le framework Laravel a été utilisé pour ce projet.
 
@@ -100,7 +96,7 @@ Le framework Symfony a été utilisé pour ce projet.
 #### Extranet du CEMC
 ---
 
-Reprise du projet développé par un autre développeur de l'agence. 
+Reprise du projet développé par un autre développeur de l'agence. <br />
 Je me suis occupé de la finalisation du projet (développement des dernières fonctionnalités, corrections des bugs, mise en ligne). Je m'occupe maintenant des différentes demandes d'évolutions et de la maintenance de cet extranet.
 
 Sur cet extranet : 
@@ -125,26 +121,27 @@ Ils s'agissaient d'espaces privées de partages de documents, de formulaires sp�
 ### FRONT
 ---
 
-Pour la plupart des projets, le CMS WordPress a été utilisé.
+Pour la plupart des projets présentés, le CMS WordPress a été utilisé.
 
 #### Calvados Tourisme & Vivre dans le Calvados
 ---
 
-Reprise du projet développé par un autre développeur de l'agence.
-Pour le développement de Calvados Tourisme, c'est un autre développeur qui avait commencé à travailler dessus, j'ai été chargé de finaliser le projet et de sa mise en ligne. Sur cette première version du projet, nous utilisions uniquement WordPress.
+Reprise du projet développé par un autre développeur de l'agence. <br />
+Pour le développement de Calvados Tourisme, c'est un autre développeur qui avait commencé à travailler dessus, j'ai été chargé de finaliser le projet et de la mise en ligne. Sur cette première version du projet, nous utilisions uniquement WordPress.
 
 Sur ce projet (Calvados Tourisme) : 
 - Page de sommaires, éditoriales administrables par le client,
 - Import des données/offres du système d'information du Calvados (Tourinsoft)
 - Affichage de listing et de fiches de ces offres
 - Affichage de formulaire lié à Tourinsoft
+- ...
 
-Pour la deuxième version du projet et le développement de Vivre dans le Calvados, nous avons géré l'import des données grâce à système externe que nous avons développé sur le framework Symfony. Nous avons été deux développeurs à travailler sur celui-ci, mon collègue a élaboré toute la structure et j'ai continué et finalisé les développement.
+Pour la deuxième version du projet et le développement de Vivre dans le Calvados, nous avons géré l'import des données grâce à un système externe que nous avons développé sur le framework Symfony. Nous avons été deux développeurs à travailler sur celui-ci, mon collègue a élaboré toute la structure et commencé les développement et j'ai ensuite continué et finalisé les développement.
 
 
 Suite à la sortie de Vivre dans le Calvados, nous avons mis en place le système sur Calvados Tourisme pour que la maintenance de ces deux sites soit plus simple.
 
-Pour la sortie du site Calvados Tourisme, j'ai aussi été amené à developper un jeu concours que nous avons développé sur mesure. Il s'agissait pour l'internaute, de naviguer sur le site et de trouver trois illustrations (et cliquer dessus), une fois qu'il avait trouvé ces trois illustrations, il y avait un formulaire d'inscription.
+Pour la sortie du site Calvados Tourisme, nous avons developpé un jeu concours que nous avons développé sur mesure. Il s'agissait pour l'internaute, de naviguer sur le site et de trouver trois illustrations (et cliquer dessus), une fois qu'il avait trouvé ces trois illustrations, il y avait un formulaire d'inscription pour participer à un tirage au sort.
 
 Actuellement, je m'occupe des demandes d'évolutions sur les deux sites et leurs maintenances.
 
@@ -158,12 +155,12 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 
 Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
 
-L'API mis à disposition par une autre société permet plusieurs choses :
-- Récupérer les sorties disponibles pour les traversées de la Baie du Mont-Saint-Michel pour les afficher sur le site,
-- Envoyer les informations de réservations suite à la commande d'un utilisateur sur le site (pour que ces informations soient disponibles dans l'outil de compta du client).
+L'API mise à disposition par une autre société permet plusieurs choses :
+- Récupérer les sorties disponibles (des traversées de la Baie du Mont-Saint-Michel) pour les afficher sur le site,
+- Envoyer les informations de réservations suite à la commande d'un utilisateur sur le site (pour que ces informations soient disponibles dans l'outil de comptabilité du client).
 
 Le WooCommerce permet de gérer toute la partie panier, paiement, gestion du compte.
-Une partie éditoriale est aussi présente sur le site (Gutenberg).
+Une partie éditoriale est aussi présente sur le site.
 
 _Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible._
 
@@ -174,24 +171,17 @@ Développement d'un site sur WoordPress avec de l'e-commerce (WooCommerce) et un
 
 Le webservice permet de récupérer les manifestations et les afficher dans des listings et des fiches.
 
-Le WooCommerce permet de commandes des livres papiers du Calendrier des brocantes et de réserver des encarts publicités sur les listings et fiches des manifestations.
+Le WooCommerce permet de commander des livres papiers du Calendrier des brocantes et de réserver des encarts publicités sur les listings et fiches des manifestations.
 
-Une partie plus éditoriale est aussi présente sur le site pour gérer le blog.
+Une partie plus éditoriale est aussi présente sur le site pour gérer le blog notamment.
 
+<!--
 Avant la refonte de Calendrier des brocantes (admin), anciennement Géopuces, c'était une autre société qui nous fournissait le webservice.
+-->
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
 [calendrier-des-brocantes.com](https://calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
-
-#### Centre François Baclesse
----
-
-Refonte du site du centre de lutte contre le cancer de Caen.
-
-Nous sommes ici sur un site "vitrine" en multilingue (français, anglais). Le client a la main sur tous les contenus du site.
-
-[www.baclesse.fr](https://www.baclesse.fr/){:target="_blank" rel="noopener"}
 
 #### Mon Stage dans la Manche
 ---
@@ -207,9 +197,9 @@ Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus 
 
 Reprise du projet développé par un autre développeur de l'agence.
 
-Développement des évolutions sur et maintenance sur celui-ci.
+Développement des évolutions et maintenance sur celui-ci.
 
-Parmi, les évolutions, j'ai été amené à développer un import d'offres d'emplois venant de l'API de Pole Emploi.
+Parmi, les évolutions, j'ai développé un import d'offres d'emplois venant de l'API de Pole Emploi.
 
 [maviedanslamanche.fr](https://www.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
 
@@ -218,28 +208,16 @@ Parmi, les évolutions, j'ai été amené à développer un import d'offres d'em
 
 Refonte d'un site d'articles d'actualités des entreprises et de l'économie en Normandie.
 
-Petite particularité, l'ancien site étant sur Drupal, il a fallu développer un petit outil pour importer les articles sur le WordPress
+Petite particularité, l'ancien site étant sur Drupal, il a fallu développer un petit outil pour importer les articles sur le WordPress pour que ces articles restent disponibles.
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
 [normandinamik.cci.fr](https://www.normandinamik.cci.fr/){:target="_blank" rel="noopener"}
 
-#### Pôle TES
----
-
-Développement d'un site éditorial et d'un sous-site d'actualités.
-
-WordPress assez classique, avec ACF et les custom post types.
-
-- [pole-tes.com](https://www.pole-tes.com/){:target="_blank" rel="noopener"}
-- [actualites.pole-tes.com](https://actualites.pole-tes.com/){:target="_blank" rel="noopener"}
-
 #### Fédération des guides de Normandie
 ---
 
-Développement d'un site présentation les guides de l'assocation. 
-
-WordPress éditorial assez classique, où le client a la main sur le contenu.
+Développement d'un site présentant les guides de l'assocation. 
 
 Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, gérer son planning de disponibilités, créer des événements pour des visites, ...
 
@@ -250,7 +228,7 @@ Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, 
 
 Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
 
-Le site principal a un thème unique avec de l'éditorial, ...
+Le site principal a un thème unique avec de l'éditorial, ...<br />
 Les sous-sites partage un même thème avec une même typologie de site avec des couleurs différentes.
 
 [adepta.com](https://www.adepta.com/){:target="_blank" rel="noopener"}
@@ -258,27 +236,29 @@ Les sous-sites partage un même thème avec une même typologie de site avec des
 #### Calvados (intégration HTML, CSS & JS)
 ---
 
-Intégration HTML, CSS, JS des maquettes pour le Calvados.
+Intégration HTML, CSS, JS des maquettes pour le site du département Calvados.
 
-Suite à la livraison de l'intégration, le Calvados a cablé les différents via leur CMD (Jahia).
+Suite à la livraison de l'intégration, le Calvados a cablé les différents via leur CMS (Jahia).
 
 Les gabarits sont utilisés sur plusieurs sites du département.
 
-[calvados.fr](https://www.calvados.fr/accueil.html){:target="_blank" rel="noopener"}
-[vieuxlaromaine.fr](https://www.vieuxlaromaine.fr/accueil.html){:target="_blank" rel="noopener"}
-[archives.calvados.fr](https://archives.calvados.fr/){:target="_blank" rel="noopener"}
+- [calvados.fr](https://www.calvados.fr/accueil.html){:target="_blank" rel="noopener"}
+- [vieuxlaromaine.fr](https://www.vieuxlaromaine.fr/accueil.html){:target="_blank" rel="noopener"}
+- [archives.calvados.fr](https://archives.calvados.fr/){:target="_blank" rel="noopener"}
 
 #### Festou (Intérim & Recrutement)
 ---
 
 Développement de sites d'offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
 
-[festou-interim.fr](https://www.festou-interim.fr/){:target="_blank" rel="noopener"}
-[festourecrutement.fr](https://www.festourecrutement.fr/){:target="_blank" rel="noopener"}
+- [festou-interim.fr](https://www.festou-interim.fr/){:target="_blank" rel="noopener"}
+- [festourecrutement.fr](https://www.festourecrutement.fr/){:target="_blank" rel="noopener"}
 
 #### Divers
 ---
 
+- [Pôle TES ](https://www.pole-tes.com/){:target="_blank" rel="noopener"}
+- [Centre François Baclesse](https://www.baclesse.fr/){:target="_blank" rel="noopener"}
 - [Space Villers](https://www.space-villers.fr/){:target="_blank" rel="noopener"}
 - [Villers-sur-Mer](https://www.villers-sur-mer.fr/){:target="_blank" rel="noopener"}
 - [Caen Evenements](caen-evenements.com){:target="_blank" rel="noopener"}
@@ -301,8 +281,8 @@ Développement d'une application mobile pour répertorier les mares.
 
 Cette application permet de : 
 
-- Référencer une nouvelle mare : Localisation de la mare, compléter les informations de la mare (stade, description, photo)
-- Compléter les informations existantes sur une mare
+- Référencer une nouvelle mare : Localisation de la mare, compléter les informations de la mare (stade, description, photo),
+- Compléter les informations existantes sur une mare.
 
 Une API a été utilisé pour cette application pour enregistrer les mares saisies.
 L'API a été développé avec le framework Symfony.
