@@ -25,7 +25,6 @@ Nom du projet (explications) | URL du projet
 ...
 -->
 
----
 ### Back (Framework PHP)
 ---
 
@@ -121,7 +120,6 @@ J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Mu
 Ces projets ne sont plus disponibles.<br />
 Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
----
 ### Front (WordPress, Intégration)
 ---
 
@@ -289,7 +287,6 @@ Participation au développement, évolutions et maintenance des sites :
 - [Caen Normandie Développement](https://www.caennormandiedeveloppement.fr/){:target="_blank" rel="noopener"}
 - [Normandie Aménagement](https://www.normandie-amenagement.com/){:target="_blank" rel="noopener"}
 
----
 ### Autres
 ---
 
