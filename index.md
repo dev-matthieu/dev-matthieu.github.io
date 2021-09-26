@@ -1,4 +1,4 @@
-J'ai commencé le développement informatique il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
+J'ai commencé le développement il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
 
 En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été pris en CDI.
 
@@ -16,7 +16,7 @@ Des captures d'écrans et des compléments d'informations sont disponible sur le
 
 ### Liste des projets
 
-Nom du projet (& explications) | URL du projet
+Nom du projet (explications) | URL du projet
 --- | ---
 [Extranet Coopcreully](#back-extranet-coopcreully) | [extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
 [Espace membre du Pôle Hippolia](#back-espace-membre-pole-hippolia) | [espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
@@ -106,8 +106,8 @@ Le framework Symfony a été utilisé pour ce projet.
 
 #### Autres
 
-J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie.__
-Ces projets ne sont plus disponibles.__
+J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie.<br />
+Ces projets ne sont plus disponibles.<br />
 Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
 
 ---
