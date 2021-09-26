@@ -11,15 +11,19 @@ Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différe
 
 Cette page présente quelques projets sur lesquels j'ai travaillé.
 
+Des captures d'écrans et des compléments d'informations sont disponible sur le site de l'[agence Highfive](https://www.highfive.fr){:target="_blank" rel="noopener"}
+
 ### Liste des projets
 
 Nom du projet (& explications) | URL du projet
 --- | ---
-[Extranet Coopcreully](#extranet-coopcreully) | [extranet.coopcreully.com](https://extranet.coopcreully.com/)
+[Extranet Coopcreully](#back-extranet-coopcreully) | [extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
+[Espace membre du Pôle Hippolia](#back-espace-membre-pole-hippolia) | [espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
+...
 
 ### Back (Framework PHP)
 
-#### Extranet Coopcreully <a name="extranet-coopcreully"></a>
+#### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
 
 Création d'une application web à disposition des adhérents de la Coopérative agricole à Creully. 
 
@@ -33,9 +37,9 @@ Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer fa
 
 Le framework Laravel a été utilisé pour ce projet.
 
-[extranet.coopcreully.com](https://extranet.coopcreully.com/)
+[extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
 
-#### Espace membre du Pôle Hippolia <a name="espace-membre-pole-hippolia"></a>
+#### Espace membre du Pôle Hippolia <a name="back-espace-membre-pole-hippolia"></a>
 
 Création d'une application web à disposition des membres du Pole Hippolia.
 
@@ -49,9 +53,9 @@ Sur cet espace membre :
 
 Le framework Symfony a été utilisé pour ce projet.
 
-[espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/)
+[espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
 
-#### Espace producteur Terroirs de Lait (Savencia)
+#### Espace producteur Terroirs de Lait (Savencia) <
 
 Reprise du projet développé par un autre développeur de l'agence. 
 Je m'occupe des demandes d'évolutions (faisabilités, estimations, développements, tests, mise en production)
@@ -64,7 +68,7 @@ Sur cet espace producteur :
 
 Le framework Laravel a été utilisé pour ce projet.
 
-[pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/)
+[pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/){:target="_blank" rel="noopener"}
 
 #### Extranet du CEMC
 
@@ -81,7 +85,7 @@ Sur cet extranet :
 
 Le framework Symfony a été utilisé pour ce projet.
 
-[extranet.cemc.fr](https://extranet.cemc.fr/)
+[extranet.cemc.fr](https://extranet.cemc.fr/){:target="_blank" rel="noopener"}
 
 #### Calendrier des brocantes (admin)
 
@@ -97,7 +101,7 @@ Sur ce projet :
 
 Le framework Laravel a été utilisé pour ce projet.
 
-[orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/)
+[orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
 
 #### Autres
 
@@ -133,8 +137,8 @@ Actuellement, je m'occupe des demandes d'évolutions sur les deux sites et leurs
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-[calvados-tourisme.com](https://www.calvados-tourisme.com/)
-[vivredanslecalvados.com](https://www.vivredanslecalvados.com/)
+- [calvados-tourisme.com](https://www.calvados-tourisme.com/){:target="_blank" rel="noopener"}
+- [vivredanslecalvados.com](https://www.vivredanslecalvados.com/){:target="_blank" rel="noopener"}
 
 #### Chemins de la Baie (en développement)
 
@@ -163,7 +167,7 @@ Avant la refonte de Calendrier des brocantes (admin), anciennement Géopuces, c'
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-[calendrier-des-brocantes.com](https://calendrier-des-brocantes.com/)
+[calendrier-des-brocantes.com](https://calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
 
 #### Centre François Baclesse
 
@@ -171,7 +175,7 @@ Refonte du site du centre de lutte contre le cancer de Caen.
 
 Nous sommes ici sur un site "vitrine" en multilingue (français, anglais). Le client a la main sur tous les contenus du site.
 
-[www.baclesse.fr](https://www.baclesse.fr/)
+[www.baclesse.fr](https://www.baclesse.fr/){:target="_blank" rel="noopener"}
 
 #### Mon Stage dans la Manche
 
@@ -179,7 +183,7 @@ Développement d'une plateforme d'offres de stages, où les lycéens peuvent s'i
 
 Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus poussée des utilisateurs, de formulaires (déclenchements d'actions suite à la soumission de formulaire), ...
 
-[stage.maviedanslamanche.fr](https://stage.maviedanslamanche.fr/)
+[stage.maviedanslamanche.fr](https://stage.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
 
 #### Ma vie dans la Manche
 
@@ -189,7 +193,7 @@ Développement des évolutions sur et maintenance sur celui-ci.
 
 Parmi, les évolutions, j'ai été amené à développer un import d'offres d'emplois venant de l'API de Pole Emploi.
 
-[maviedanslamanche.fr](https://www.maviedanslamanche.fr/)
+[maviedanslamanche.fr](https://www.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
 
 #### Normandinamik
 
@@ -199,7 +203,7 @@ Petite particularité, l'ancien site étant sur Drupal, il a fallu développer u
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-[normandinamik.cci.fr](https://www.normandinamik.cci.fr/)
+[normandinamik.cci.fr](https://www.normandinamik.cci.fr/){:target="_blank" rel="noopener"}
 
 #### Pôle TES
 
@@ -207,8 +211,8 @@ Développement d'un site éditorial et d'un sous-site d'actualités.
 
 WordPress assez classique, avec ACF et les custom post types.
 
-[pole-tes.com](https://www.pole-tes.com/)
-[actualites.pole-tes.com](https://actualites.pole-tes.com/)
+- [pole-tes.com](https://www.pole-tes.com/){:target="_blank" rel="noopener"}
+- [actualites.pole-tes.com](https://actualites.pole-tes.com/){:target="_blank" rel="noopener"}
 
 #### Fédération des guides de Normandie
 
@@ -218,7 +222,7 @@ WordPress éditorial assez classique, où le client a la main sur le contenu.
 
 Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, gérer son planning de disponibilités, créer des événements pour des visites, ...
 
-[guidesdenormandie.fr](https://guidesdenormandie.fr/)
+[guidesdenormandie.fr](https://guidesdenormandie.fr/){:target="_blank" rel="noopener"}
 
 #### Adepta
 
@@ -227,36 +231,38 @@ Développement d'un site constitué de plusieurs sous-sites (grâce à la foncti
 Le site principal a un thème unique avec de l'éditorial, ...
 Les sous-sites partage un même thème avec une même typologie de site avec des couleurs différentes.
 
-[adepta.com](https://www.adepta.com/)
+[adepta.com](https://www.adepta.com/){:target="_blank" rel="noopener"}
 
 #### Calvados (intégration HTML, CSS & JS)
 
 Intégration HTML, CSS, JS des maquettes pour le Calvados.
 
+Suite à la livraison de l'intégration, le Calvados a cablé les différents via leur CMD (Jahia).
+
 Les gabarits sont utilisés sur plusieurs sites du département.
 
-[calvados.fr](https://www.calvados.fr/accueil.html)
-[vieuxlaromaine.fr](https://www.vieuxlaromaine.fr/accueil.html)
-[archives.calvados.fr](https://archives.calvados.fr/)
+[calvados.fr](https://www.calvados.fr/accueil.html){:target="_blank" rel="noopener"}
+[vieuxlaromaine.fr](https://www.vieuxlaromaine.fr/accueil.html){:target="_blank" rel="noopener"}
+[archives.calvados.fr](https://archives.calvados.fr/){:target="_blank" rel="noopener"}
 
 #### Festou (Intérim & Recrutement)
 
 Développement de sites d'offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
 
-[festou-interim.fr](https://www.festou-interim.fr/)
-[festourecrutement.fr](https://www.festourecrutement.fr/)
+[festou-interim.fr](https://www.festou-interim.fr/){:target="_blank" rel="noopener"}
+[festourecrutement.fr](https://www.festourecrutement.fr/){:target="_blank" rel="noopener"}
 
 #### Autres
 
-- [Space Villers](https://www.space-villers.fr/)
-- [Villers-sur-Mer](https://www.villers-sur-mer.fr/)
-- [Caen Evenements](caen-evenements.com)
+- [Space Villers](https://www.space-villers.fr/){:target="_blank" rel="noopener"}
+- [Villers-sur-Mer](https://www.villers-sur-mer.fr/){:target="_blank" rel="noopener"}
+- [Caen Evenements](caen-evenements.com){:target="_blank" rel="noopener"}
 
 Participation au développement, évolutions et maintenance des sites :
 
-- [Dejamobile](https://dejamobile.com/fr/)
-- [Caen Normandie Développement](https://www.caennormandiedeveloppement.fr/)
-- [Normandie Aménagement](https://www.normandie-amenagement.com/)
+- [Dejamobile](https://dejamobile.com/fr/){:target="_blank" rel="noopener"}
+- [Caen Normandie Développement](https://www.caennormandiedeveloppement.fr/){:target="_blank" rel="noopener"}
+- [Normandie Aménagement](https://www.normandie-amenagement.com/){:target="_blank" rel="noopener"}
 
 ---
 
@@ -276,11 +282,11 @@ Cette application permet de :
 Une API a été utilisé pour cette application pour enregistrer les mares saisies.
 L'API a été développé avec le framework Symfony.
 
-React native a été utilisé pour développer cette application mobile.
+React Native a été utilisé pour développer cette application mobile.
 
 L'application n'est accessible que sur Android pour le moment :
 
-[Google Play](https://play.google.com/store/apps/details?id=fr.highfive.geomares)
+[Google Play](https://play.google.com/store/apps/details?id=fr.highfive.geomares){:target="_blank" rel="noopener"}
 
 #### Application mobile Mam'route
 
@@ -300,7 +306,7 @@ Ionic a été utilisé pour développer cette application mobile.
 
 L'application n'est maintenant disponible que sur Android :
 
-[Google Play](https://play.google.com/store/apps/details?id=com.highfive.mamroute)
+[Google Play](https://play.google.com/store/apps/details?id=com.highfive.mamroute){:target="_blank" rel="noopener"}
 
 #### Autres 
 
@@ -311,14 +317,14 @@ _Ces applications ne sont plus disponibles._
 
 Développement de deux applications mobiles audioguide pour les expositions : 
 
-- [La Libération de la peinture 1945-1962](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/la-liberation-de-la-peinture-1945-1962)
-- [Rockwell, Roosevelt & les quatre libertés](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/rockwell-roosevelt-les-quatre-libertes)
+- [La Libération de la peinture 1945-1962](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/la-liberation-de-la-peinture-1945-1962){:target="_blank" rel="noopener"}
+- [Rockwell, Roosevelt & les quatre libertés](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/rockwell-roosevelt-les-quatre-libertes){:target="_blank" rel="noopener"}
 
 Ces applications permettait au visiteur d'avoir des explications audio (et retranscriptions textuelles) lors de leur visite de l'exposition, des informations pratiques, ...
 
-Ces deux applications mobiles ont été créé avec [React Native](https://reactnative.dev/)
+Ces deux applications mobiles ont été créé avec [React Native](https://reactnative.dev/){:target="_blank" rel="noopener"}
 
-_Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/expo-norman-rockwell/)_
+_Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/expo-norman-rockwell/){:target="_blank" rel="noopener"}_
 
 ##### Application mobile Mémorial
 
@@ -332,6 +338,6 @@ Cette application contenait :
 
 Les informations présentes dans l'application étaient administrables par le Mémorial. Nous avions créé un back-office avec le framework Laravel.
 
-L'application mobile avait été créé avec la première version de [Ionic](https://ionicframework.com/).
+L'application mobile avait été créé avec la première version de [Ionic](https://ionicframework.com/){:target="_blank" rel="noopener"}.
 
-_Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/application-memorial/)_
+_Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/application-memorial/){:target="_blank" rel="noopener"}_
