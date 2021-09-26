@@ -2,9 +2,9 @@
 
 J'ai commencé le développement il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
 
-En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
+En juin 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été embauché en CDI.
 
-En 2020, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine du calendrier scolaire dans le cadre de la License informatique de la Fac de Caen.
+En septembre 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.
 J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre. 
 
 ## Projets
@@ -12,7 +12,6 @@ J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté 
 Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différentes typologies de projets pour différents clients. 
 
 Cette page présente quelques projets sur lesquels j'ai travaillé.
-
 
 ### Liste des projets
 
@@ -36,6 +35,8 @@ Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer fa
 
 Le framework Laravel a été utilisé pour ce projet.
 
+[extranet.coopcreully.com](https://extranet.coopcreully.com/)
+
 #### Espace membre du Pôle Hippolia
 
 Création d'une application web à disposition des membres du Pole Hippolia.
@@ -50,6 +51,8 @@ Sur cet espace membre :
 
 Le framework Symfony a été utilisé pour ce projet.
 
+[espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/)
+
 #### Espace producteur Terroirs de Lait (Savencia)
 
 Reprise du projet développé par un autre développeur de l'agence. 
@@ -62,6 +65,8 @@ Sur cet espace producteur :
 - Liaison avec un WordPress qui est affiché uniquement pour les producteurs connectés à leurs espaces
 
 Le framework Laravel a été utilisé pour ce projet.
+
+[pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/)
 
 #### Extranet du CEMC
 
@@ -78,6 +83,8 @@ Sur cet extranet :
 
 Le framework Symfony a été utilisé pour ce projet.
 
+[extranet.cemc.fr](https://extranet.cemc.fr/)
+
 #### Calendrier des brocantes (admin)
 
 Reprise du projet développé par un autre développeur de l'agence.
@@ -92,6 +99,8 @@ Sur ce projet :
 
 Le framework Laravel a été utilisé pour ce projet.
 
+[orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/)
+
 #### Autres
 
 J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie. 
@@ -102,7 +111,7 @@ Ils s'agissaient d'espaces privées de partages de documents, de formulaires sp�
 
 ### Front (WordPress, Intégration)
 
-Pour la plupart des projets, le CMS WordPress a été utilisé
+Pour la plupart des projets, le CMS WordPress a été utilisé.
 
 #### Calvados Tourisme & Vivre dans le Calvados
 
@@ -126,6 +135,9 @@ Actuellement, je m'occupe des demandes d'évolutions sur les deux sites et leurs
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
+[calvados-tourisme.com](https://www.calvados-tourisme.com/)
+[vivredanslecalvados.com](https://www.vivredanslecalvados.com/)
+
 #### Chemins de la Baie (en développement)
 
 Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
@@ -137,7 +149,7 @@ L'API mis à disposition par une autre société permet plusieurs choses :
 Le WooCommerce permet de gérer toute la partie panier, paiement, gestion du compte.
 Une partie éditoriale est aussi présente sur le site (Gutenberg).
 
-Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible.
+_Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible._
 
 #### Calendrier des brocantes 
 
@@ -153,17 +165,23 @@ Avant la refonte de Calendrier des brocantes (admin), anciennement Géopuces, c'
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
-#### Baclesse & Protonthérapie
+[calendrier-des-brocantes.com](https://calendrier-des-brocantes.com/)
 
-Refonte du site de Baclesse.
+#### Centre François Baclesse
+
+Refonte du site du centre de lutte contre le cancer de Caen.
 
 Nous sommes ici sur un site "vitrine" en multilingue (français, anglais). Le client a la main sur tous les contenus du site.
+
+[www.baclesse.fr](https://www.baclesse.fr/)
 
 #### Mon Stage dans la Manche
 
 Développement d'une plateforme d'offres de stages, où les lycéens peuvent s'inscrire et postuler à des offres et où les entreprises peuvent proposer des offres de stages, gérer les candidatures.
 
 Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus poussée des utilisateurs, de formulaires (déclenchements d'actions suite à la soumission de formulaire), ...
+
+[stage.maviedanslamanche.fr](https://stage.maviedanslamanche.fr/)
 
 #### Ma vie dans la Manche
 
@@ -173,19 +191,26 @@ Développement des évolutions sur et maintenance sur celui-ci.
 
 Parmi, les évolutions, j'ai été amené à développer un import d'offres d'emplois venant de l'API de Pole Emploi.
 
+[maviedanslamanche.fr](https://www.maviedanslamanche.fr/)
+
 #### Normandinamik
 
-Refonte d'un site des "articles de presse".
+Refonte d'un site d'articles d'actualités des entreprises et de l'économie en Normandie.
 
 Petite particularité, l'ancien site étant sur Drupal, il a fallu développer un petit outil pour importer les articles sur le WordPress
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
+[normandinamik.cci.fr](https://www.normandinamik.cci.fr/)
+
 #### Pôle TES
 
-Développement d'un site éditorial et d'un sous-site d'actualités. 
+Développement d'un site éditorial et d'un sous-site d'actualités.
 
 WordPress assez classique, avec ACF et les custom post types.
+
+[pole-tes.com](https://www.pole-tes.com/)
+[actualites.pole-tes.com](https://actualites.pole-tes.com/)
 
 #### Fédération des guides de Normandie
 
@@ -195,6 +220,8 @@ WordPress éditorial assez classique, où le client a la main sur le contenu.
 
 Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, gérer son planning de disponibilités, créer des événements pour des visites, ...
 
+[guidesdenormandie.fr](https://guidesdenormandie.fr/)
+
 #### Adepta
 
 Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
@@ -202,28 +229,36 @@ Développement d'un site constitué de plusieurs sous-sites (grâce à la foncti
 Le site principal a un thème unique avec de l'éditorial, ...
 Les sous-sites partage un même thème avec une même typologie de site avec des couleurs différentes.
 
-#### Calvados
+[adepta.com](https://www.adepta.com/)
+
+#### Calvados (intégration HTML, CSS & JS)
 
 Intégration HTML, CSS, JS des maquettes pour le Calvados.
 
 Les gabarits sont utilisés sur plusieurs sites du département.
 
+[calvados.fr](https://www.calvados.fr/accueil.html)
+[vieuxlaromaine.fr](https://www.vieuxlaromaine.fr/accueil.html)
+[archives.calvados.fr](https://archives.calvados.fr/)
+
 #### Festou (Intérim & Recrutement)
 
 Développement de sites d'offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
 
-#### Autres 
+[festou-interim.fr](https://www.festou-interim.fr/)
+[festourecrutement.fr](https://www.festourecrutement.fr/)
 
-- Caen Evenements
-- Centre aquatique Auréo
-- Vital Epargne Immobilier
-- Le journal de Suzon (Mémorial)
+#### Autres
+
+- [Space Villers](https://www.space-villers.fr/)
+- [Villers-sur-Mer](https://www.villers-sur-mer.fr/)
+- [Caen Evenements](caen-evenements.com)
 
 Participation au développement, évolutions et maintenance des sites :
 
-- Dejamobile 
-- Caen Normandie Développement
-- Normandie Aménagement
+- [Dejamobile](https://dejamobile.com/fr/)
+- [Caen Normandie Développement](https://www.caennormandiedeveloppement.fr/)
+- [Normandie Aménagement](https://www.normandie-amenagement.com/)
 
 ---
 
@@ -233,10 +268,72 @@ J'ai aussi travaillé sur des projets d'applications mobiles.
 
 #### Application mobile GéoMares
 
-#### Application mobile Mémorial Rockwell : Audioguide
+Développement d'une application mobile pour répertorier les mares.
 
-Développer en React Native
+Cette application permet de : 
 
-#### Application mobile Mémorial
+- Référencer une nouvelle mare : Localisation de la mare, compléter les informations de la mare (stade, description, photo)
+- Compléter les informations existantes sur une mare
+
+Une API a été utilisé pour cette application pour enregistrer les mares saisies.
+L'API a été développé avec le framework Symfony.
+
+React native a été utilisé pour développer cette application mobile.
+
+L'application n'est accessible que sur Android pour le moment :
+
+[Google Play](https://play.google.com/store/apps/details?id=fr.highfive.geomares)
 
 #### Application mobile Mam'route
+
+Développement d'une application mobile pour déclarer les animaux morts sur les routes.
+
+Les fonctionnalités de l'application sont les suivantes : 
+
+- Se géolocaliser pour préciser l'emplacement de l'animal
+- Choisir l'espèce parmi une sélection
+- Ecrire un commentaire textuel
+- Faire une description audio
+- Prendre des photos de l'emplacement
+
+Les informations saisies sont ensuite transmise à la GMN qui va les traiter.
+
+Ionic a été utilisé pour développer cette application mobile.
+
+L'application n'est maintenant disponible que sur Android :
+
+[Google Play](https://play.google.com/store/apps/details?id=com.highfive.mamroute)
+
+#### Autres 
+
+J'ai aussi été amené à travailler sur des applications pour le Mémorial de Caen. 
+_Ces applications ne sont plus disponibles._
+
+##### Application mobile Mémorial Audioguides
+
+Développement de deux applications mobiles audioguide pour les expositions : 
+
+- [La Libération de la peinture 1945-1962](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/la-liberation-de-la-peinture-1945-1962)
+- [Rockwell, Roosevelt & les quatre libertés](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/rockwell-roosevelt-les-quatre-libertes)
+
+Ces applications permettait au visiteur d'avoir des explications audio (et retranscriptions textuelles) lors de leur visite de l'exposition, des informations pratiques, ...
+
+Ces deux applications mobiles ont été créé avec [React Native](https://reactnative.dev/)
+
+_Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/expo-norman-rockwell/)_
+
+##### Application mobile Mémorial
+
+Développement de l'application du Mémorial de Caen.
+
+Cette application contenait : 
+
+- Les parcours pour visiter le Mémorial (avec des propositions d'ordres par temps, intérêts)
+- Les informations pratiques 
+- Le plan du musée
+
+Les informations présentes dans l'application étaient administrables par le Mémorial. Nous avions créé un back-office avec le framework Laravel.
+
+L'application mobile avait été créé avec la première version de [Ionic](https://ionicframework.com/).
+
+_Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/application-memorial/)_
