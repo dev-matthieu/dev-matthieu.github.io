@@ -277,7 +277,7 @@ Je présente ci-dessous les applications mobiles réalisées à l'agence Highfiv
 Actuellement, je ne suis plus vraiment intéressé pour en développer de nouvelles.<br />
 Cela est en partie dû au fait qu'il faille se maintenir constamment à jour sur les évolutions d'Android et d'iOS et les frameworks utilisés. <br />
 De plus, leurs premières publications et leurs mises à jours (quelques mois, voir années après) de celles-ci ne sont pas toujours des plus simples.<br />
-Je pense que ça m'intéresserait de travailler à nouveau sur des applications mobiles, si je travaille régulièrement dessus.
+Je pense que ça m'intéresserait de travailler à nouveau sur des applications mobiles si je travaille régulièrement dessus.
 
 #### Application mobile GéoMares
 ---
