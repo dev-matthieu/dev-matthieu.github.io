@@ -37,10 +37,10 @@ Nom du projet (explications) | URL du projet
 Création d'une application web à disposition des adhérents de la Coopérative agricole de Creully. 
 
 Sur cet extranet : 
-- des données sont importés chaque jours à partir de fichiers CSV, 
+- des données sont importées chaque jour à partir de fichiers CSV, 
 - les données importées sont affichées pour les adhérents, certaines données sont propres à chaque adhérent et d'autres sont communes à tous les adhérents,
 - des données provenant de fichiers CSV sont affichées en direct, 
-- des données provenant d'un WordPress sont aussi affichés. Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer facilement du contenu sur l'extranet est pertinente car il y a aussi un site WordPress pour présenter la Coopcreully.
+- des données provenant d'un WordPress sont aussi affichées. Sur ce projet l'utilisation d'un WordPress pour permettre au client d'éditer facilement du contenu sur l'extranet est pertinente car il y a aussi un site WordPress pour présenter la Coopcreully.
 
 Le framework Laravel a été utilisé pour ce projet.
 
@@ -88,7 +88,7 @@ Sur cet espace membre :
 - Gestion des documents,
 - Gestion des catégories de documents,
 - Gestion des droits des utilisateurs par catégories de documents,
-- Mis en place d'un webservice pour afficher les membres sur le site internet du Pôle Hippolia.
+- Mise en place d'un webservice pour afficher les membres sur le site internet du Pôle Hippolia.
 
 Le framework Symfony a été utilisé pour ce projet.
 
@@ -106,7 +106,7 @@ Sur cet extranet :
 - Gestion d'une médiathèque 
 - Gestion d'une messagerie
 - Gestion administratives (factures profs, ...)
-- Affichage des spectacles de fins d'années (photos, dossiers à télécharger, vidéos)
+- Affichage des spectacles de fin d'année (photos, dossiers à télécharger, vidéos)
 
 Le framework Symfony a été utilisé pour ce projet.
 
@@ -117,7 +117,7 @@ Le framework Symfony a été utilisé pour ce projet.
 
 J'ai aussi été amené à travailler sur des plus petits projets pour Bayeux Museum, Attitude Manche, Gipsy Toys, AD Normandie.<br />
 Ces projets ne sont plus disponibles.<br />
-Ils s'agissaient d'espaces privées de partages de documents, de formulaires spécifiques, ...
+Ils s'agissaient d'espaces privés de partages de documents, de formulaires spécifiques, ...
 
 ### FRONT
 ---
@@ -230,7 +230,7 @@ Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, 
 Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
 
 Le site principal a un thème unique avec de l'éditorial, ...<br />
-Les sous-sites partage un même thème avec une même typologie de site avec des couleurs différentes.
+Les sous-sites partagent un même thème avec une même typologie de site avec des couleurs différentes.
 
 [adepta.com](https://www.adepta.com/){:target="_blank" rel="noopener"}
 
@@ -250,7 +250,7 @@ Les gabarits sont utilisés sur plusieurs sites du département.
 #### Festou (Intérim & Recrutement)
 ---
 
-Développement de sites d'offres d'emploi saisis dans l'administration du site et des offres venant de webservices.
+Développement de sites d'offres d'emplois saisis dans l'administration du site et des offres venant de webservices.
 
 - [festou-interim.fr](https://www.festou-interim.fr/){:target="_blank" rel="noopener"}
 - [festourecrutement.fr](https://www.festourecrutement.fr/){:target="_blank" rel="noopener"}
@@ -270,7 +270,7 @@ Participation au développement, évolutions et maintenance des sites :
 - [Caen Normandie Développement](https://www.caennormandiedeveloppement.fr/){:target="_blank" rel="noopener"}
 - [Normandie Aménagement](https://www.normandie-amenagement.com/){:target="_blank" rel="noopener"}
 
-### AUTRES
+### APPLICATIONS MOBILES
 ---
 
 J'ai aussi travaillé sur des projets d'applications mobiles. 
@@ -285,8 +285,8 @@ Cette application permet de :
 - Référencer une nouvelle mare : Localisation de la mare, compléter les informations de la mare (stade, description, photo),
 - Compléter les informations existantes sur une mare.
 
-Une API a été utilisé pour cette application pour enregistrer les mares saisies.
-L'API a été développé avec le framework Symfony.
+Une API a été utiliséE pour cette application pour enregistrer les mares saisies.
+L'API a été développéE avec le framework Symfony.
 
 React Native a été utilisé pour développer cette application mobile.
 
@@ -307,7 +307,7 @@ Les fonctionnalités de l'application sont les suivantes :
 - Faire une description audio
 - Prendre des photos de l'emplacement
 
-Les informations saisies sont ensuite transmise à la GMN qui va les traiter.
+Les informations saisies sont ensuite transmises à la GMN qui va les traiter.
 
 Ionic a été utilisé pour développer cette application mobile.
 
@@ -329,9 +329,9 @@ Développement de deux applications mobiles audioguide pour les expositions :
 - [La Libération de la peinture 1945-1962](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/la-liberation-de-la-peinture-1945-1962){:target="_blank" rel="noopener"}
 - [Rockwell, Roosevelt & les quatre libertés](https://www.memorial-caen.fr/les-evenements/expositions-temporaires/rockwell-roosevelt-les-quatre-libertes){:target="_blank" rel="noopener"}
 
-Ces applications permettait au visiteur d'avoir des explications audio (et retranscriptions textuelles) lors de leur visite de l'exposition, des informations pratiques, ...
+Ces applications permettaient aux visiteurs d'avoir des explications audio (et retranscriptions textuelles) lors de leurq visites de l'exposition, des informations pratiques, ...
 
-Ces deux applications mobiles ont été créé avec [React Native](https://reactnative.dev/){:target="_blank" rel="noopener"}
+Ces deux applications mobiles ont été créées avec [React Native](https://reactnative.dev/){:target="_blank" rel="noopener"}
 
 _Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/expo-norman-rockwell/){:target="_blank" rel="noopener"}_
 
@@ -348,6 +348,6 @@ Cette application contenait :
 
 Les informations présentes dans l'application étaient administrables par le Mémorial. Nous avions créé un back-office avec le framework Laravel.
 
-L'application mobile avait été créé avec la première version de [Ionic](https://ionicframework.com/){:target="_blank" rel="noopener"}.
+L'application mobile avait été créée avec la première version de [Ionic](https://ionicframework.com/){:target="_blank" rel="noopener"}.
 
 _Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/application-memorial/){:target="_blank" rel="noopener"}_
