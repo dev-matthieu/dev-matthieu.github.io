@@ -274,8 +274,8 @@ Participation au développement, évolutions et maintenance des sites :
 ---
 
 Je présente ci-dessous les applications mobiles réalisées à l'agence Highfive pour montrer la diversité de typologie de projets.<br />
-Actuellement, je ne suis plus vraiment intéressé pour en développer de nouvelles.<br />
-Cela est en partie dû au fait qu'il faille se maintenir constamment à jour sur les évolutions d'Android et d'iOS et les frameworks utilisés. <br />
+Actuellement, je préfère me concentrer sur le web, j'ai laissé de côté le développement d'application mobile.<br />
+Cela est en partie dû au fait qu'il faille se maintenir constamment à jour sur les évolutions d'Android et d'iOS et le framework utilisé. Cette veille peut prendre beaucoup de temps.<br />
 De plus, leurs premières publications et leurs mises à jours (quelques mois, voir années après) de celles-ci ne sont pas toujours des plus simples.<br />
 Je pense que ça m'intéresserait de travailler à nouveau sur des applications mobiles si je travaille régulièrement dessus.
 
