@@ -273,7 +273,11 @@ Participation au développement, évolutions et maintenance des sites :
 ### APPLICATIONS MOBILES
 ---
 
-J'ai aussi travaillé sur des projets d'applications mobiles. 
+Je présente ci-dessous les applications mobiles réalisées à l'agence Highfive pour montrer la diversité de typologie de projets.<br />
+Actuellement, je ne suis plus vraiment intéressé pour en développer de nouvelles.<br />
+Cela est en partie dû au fait qu'il faille se maintenir constamment à jour sur les évolutions d'Android et d'iOS et des frameworks utilisés. <br />
+De plus, leurs premières publication et la mises à jours (quelques mois, voir années après) de celles-ci ne sont pas toujours des plus simples.<br />
+Je pense que ça m'intéresserait de travailler à nouveau sur des applications mobiles, si ce sont des applications mobiles avec des demandes d'évolutions régulières.
 
 #### Application mobile GéoMares
 ---
