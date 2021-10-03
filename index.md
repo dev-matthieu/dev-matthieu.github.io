@@ -1,18 +1,19 @@
-J'ai commencé le développement informatique il y a une dizaine d'années, je me suis assez vite orienté vers le web. 
+Il y a une dizaine d'années que j'ai commencé le développement informatique en m'orientant assez rapidement vers le Web.
 
-En 2013, pour mon stage de fin de License professionnel, j'ai rejoint l'agence Highfive en tant que Développeur web. Suite à mon stage, j'ai fait mon Master en alternance puis j'ai été pris en CDI.
+J'ai rejoint l'agence Highfive en tant que Développeur web en 2013 pour effectuer mon stage de fin de Licence professionnelle. A la suite de celui-ci, j'ai entrepris mon Master en alternance puis j'ai intégré l'agence en CDI.
 
-En 2020, en parallèle de mon travail à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la License informatique de la Fac de Caen.<br />
-J'encadre des TPs en License 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre et en Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre.
+Depuis 2020, parallèlement à mon poste à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la Licence Informatique de la Fac de Caen. J'interviens auprès des TPs : 
+- En Licence 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre,
+- En Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre.
 
 Mon CV est disponible en cliquant sur le lien suivant : [CV Matthieu Bart](./cv-matthieu-bart.pdf){:target="_blank" rel="noopener"}
 
 ## Projets
 ---
 
-Depuis mon arrivée chez Highfive, j'ai eu l'occasion de travailler sur différentes typologies de projets pour différents clients. 
+Depuis mon arrivée chez Highfive, j'ai pu travailler sur différentes typologies de projets pour divers clients.
 
-Cette page décrit quelques projets sur lesquels j'ai travaillé.
+Cette page décrit quelques uns de ces projets.
 
 _Des captures d'écrans et des compléments d'informations sont disponible sur le site de [l'agence Highfive](https://www.highfive.fr/realisations/){:target="_blank" rel="noopener"}._
 
