@@ -1,21 +1,23 @@
-Il y a une dizaine d'années que j'ai commencé le développement informatique en m'orientant assez rapidement vers le Web.
+Il y a un peu plus d'une dizaine d'années, j'ai commencé le développement informatique en m'orientant assez rapidement vers le Web.
 
 J'ai rejoint l'agence Highfive en tant que Développeur web en 2013 pour effectuer mon stage de fin de Licence professionnelle. A la suite de celui-ci, j'ai entrepris mon Master en alternance puis j'ai intégré l'agence en CDI.
 
-Depuis 2020, parallèlement à mon poste à l'agence, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la Licence Informatique de la Fac de Caen. J'interviens auprès des TPs : 
-- En Licence 3 pour les cours "Bases de la programmation côté serveur avec le langage PHP" au premier semestre,
-- En Licence 1 pour les cours de "Bases de la programmation web côté client avec le langage JavaScript" au second semestre.
+En 2022, souhaitant du changement, j'ai intégré l'agence Casus Belli en tant que Développeur Full-Stack.
+
+Depuis 2020, parallèlement à mon poste, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la Licence Informatique de la Fac de Caen. J'interviens auprès des TPs : 
+- En Licence 3 au premier semestre, pour les cours "Bases de la programmation côté serveur avec le langage PHP" puis "Programmation d’applications web avancées" plus récemment,
+- En Licence 1 au second semestre, pour les cours de "Bases de la programmation web côté client avec le langage JavaScript".
 
 Mon CV est disponible en cliquant sur le lien suivant : [CV Matthieu Bart](./cv-matthieu-bart.pdf){:target="_blank" rel="noopener"}
 
 ## Projets
 ---
 
-Depuis mon arrivée chez Highfive, j'ai pu travailler sur différentes typologies de projets pour divers clients.
+En travaillant chez Highfive et Casus Belli, j'ai pu travailler sur différentes typologies de projets pour divers clients.
 
 Cette page décrit quelques uns de ces projets.
 
-_Des captures d'écrans et des compléments d'informations sont disponible sur le site de [l'agence Highfive](https://www.highfive.fr/realisations/){:target="_blank" rel="noopener"}._
+_Pour les projets effectués chez Highfive, des captures d'écrans et des compléments d'informations sont disponible sur le site de [l'agence Highfive](https://www.highfive.fr/realisations/){:target="_blank" rel="noopener"}._
 
 <!--
 ### Liste des projets
@@ -28,8 +30,15 @@ Nom du projet (explications) | URL du projet
 ...
 -->
 
-### BACK
+### BACK / DEV SUR MESURE
 ---
+
+#### CAPS Roue (Crédit Agricole Payement Services) <a name="back-caps-roue"></a>
+---
+
+#### CACL Hub Immo (Crédit Agricole Centre Loire) <a name="back-cacl-hub-immo"></a>
+---
+[monespaceimmo.ca-centreloire.fr](}https://monespaceimmo.ca-centreloire.fr/){:target="_blank" rel="noopener"}
 
 #### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
 ---
@@ -151,7 +160,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 - [calvados-tourisme.com](https://www.calvados-tourisme.com/){:target="_blank" rel="noopener"}
 - [vivredanslecalvados.com](https://www.vivredanslecalvados.com/){:target="_blank" rel="noopener"}
 
-#### Chemins de la Baie (en développement)
+#### Chemins de la Baie
 ---
 
 Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
@@ -163,7 +172,7 @@ L'API mise à disposition par une autre société permet plusieurs choses :
 Le WooCommerce permet de gérer toute la partie panier, paiement, gestion du compte.
 Une partie éditoriale est aussi présente sur le site.
 
-_Ce projet est en cours de finalisation, il ne devrait pas tarder à être disponible._
+[cheminsdelabaie.com](https://www.cheminsdelabaie.com/){:target="_blank" rel="noopener"}
 
 #### Calendrier des brocantes 
 ---
@@ -202,7 +211,7 @@ Développement des évolutions et maintenance sur celui-ci.
 
 Parmi, les évolutions, j'ai développé un import d'offres d'emplois venant de l'API de Pole Emploi.
 
-[maviedanslamanche.fr](https://www.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
+_Le projet n'est plus disponible, il a fusionné avec Latitude Manche_
 
 #### Normandinamik
 ---
@@ -232,7 +241,7 @@ Développement d'un site constitué de plusieurs sous-sites (grâce à la foncti
 Le site principal a un thème unique avec de l'éditorial, ...<br />
 Les sous-sites partagent un même thème avec une même typologie de site avec des couleurs différentes.
 
-[adepta.com](https://www.adepta.com/){:target="_blank" rel="noopener"}
+_Le projet n'est plus disponible l'Adepta a fusioné avec une autre entité_
 
 #### Calvados (intégration HTML, CSS & JS)
 ---
