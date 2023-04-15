@@ -271,7 +271,7 @@ Développement de sites d'offres d'emplois saisis dans l'administration du site 
 - [Centre François Baclesse](https://www.baclesse.fr/){:target="_blank" rel="noopener"}
 - [Space Villers](https://www.space-villers.fr/){:target="_blank" rel="noopener"}
 - [Villers-sur-Mer](https://www.villers-sur-mer.fr/){:target="_blank" rel="noopener"}
-- [Caen Evenements](caen-evenements.com){:target="_blank" rel="noopener"}
+- [Caen Evenements](https://www.caen-evenements.com/){:target="_blank" rel="noopener"}
 
 Participation au développement, évolutions et maintenance des sites :
 
