@@ -236,6 +236,20 @@ Parmi, les évolutions, j'ai développé un import d'offres d'emplois venant de 
 
 _Le projet n'est plus disponible, il a fusionné avec Latitude Manche_
 
+#### Turfu Festival
+---
+
+Travail sur le thème existant du site pour l'édition 2023 : changement des couleurs, système revu pour les partenaires, les rencontre, refonte de l'agenda.
+
+[turfu-festival.fr](https://turfu-festival.fr/){:target="_blank" rel="noopener"}
+
+#### Armada (Cyber infogérance)
+----
+
+Développement d'un site vitrine pour une entreprise d'infogérance.
+
+[armada.info](https://www.armada.info/){:target="_blank" rel="noopener"}
+
 #### Normandinamik
 ---
 
