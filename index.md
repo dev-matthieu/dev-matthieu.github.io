@@ -33,7 +33,7 @@ Nom du projet (explications) | URL du projet
 ### BACK / DEV SUR MESURE
 ---
 
-#### CAPS Roue (Crédit Agricole Payement Services) <a name="back-caps-roue"></a>
+#### CAPS E-Store (Crédit Agricole Payement Services) <a name="back-caps-roue"></a>
 ---
 
 Création d'une application web pour les conseillers des Caisses Régionales du Crédit Agricole. 
