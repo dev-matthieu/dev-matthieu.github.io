@@ -46,14 +46,14 @@ Un back-office a été mis en place pour permettre aux administrateurs de l'appl
 
 La partie Front de l'application a été réalisé en React et la partie Back et API a été réalisé avec Laravel.
 
-__L'application n'est pas disponible sur Internet, elle est uniquement déployée en interne au sein du Crédit Agricole_
+_L'application n'est pas disponible sur Internet, elle est uniquement déployée en interne au sein du Crédit Agricole_
 
 #### CACL Hub Immo (Crédit Agricole Centre Loire) <a name="back-cacl-hub-immo"></a>
 ---
 
 Cette application web permet de rechercher un bien, faire estimer son bien ou demander d'être recontacter pour vendre son bien.
 
-Le processus de recherche de biens de cette application est un peu différente de ce que l'on peut voir habituellement. 
+Le processus de recherche de biens de cette application est un peu différent de ce que l'on peut voir habituellement. 
 En effet, la recherche s'effectue via un chat qui va poser des questions à l'utilisateur sur les caractéristiques du bien recherché. 
 Suite à cela, les informations sont transmises au Credit Agricole et des biens correspondant aux critères sont proposées.
 
@@ -61,7 +61,7 @@ Pour la recherche de biens et l'estimation d'un bien, l'outil est cablé à une 
 
 La partie Front de l'application a été réalisé en React et Laravel et la partie Back et API a été réalisé avec Laravel.
 
-[monespaceimmo.ca-centreloire.fr](}https://monespaceimmo.ca-centreloire.fr/){:target="_blank" rel="noopener"}
+[monespaceimmo.ca-centreloire.fr](https://monespaceimmo.ca-centreloire.fr/){:target="_blank" rel="noopener"}
 
 #### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
 ---
