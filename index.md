@@ -37,8 +37,11 @@ Nom du projet (explications) | URL du projet
 ---
 
 Création d'une application web pour les conseillers des Caisses Régionales du Crédit Agricole. 
+
 Lors d'un rendez-vous avec un client, le conseiller présent les différentes solutions disponibles, l'application va permettre de présenter ces solutions au client, grâce à un formulaire en plusieurs étapes. Les solutions sont présentés sur l'application sous forme de roue, une fois que toutes les questions ont été posé, le système va proposer des solutions adaptées. Le conseiller pourra ensuite exporté au format PDF les informations sur les solutions pour les imprimer et les transmettre au client.
+
 L'application dispose aussi d'une "Boîte à outils" avec différents types de documents pour les conseillers et d'une rubrique "Actualités".
+
 Un back-office a été mis en place pour permettre aux administrateurs de l'application de gérer les contenus de celle-ci.
 
 La partie Front de l'application a été réalisé en React et la partie Back et API a été réalisé avec Laravel.
@@ -49,7 +52,10 @@ __L'application n'est pas disponible sur Internet, elle est uniquement déployé
 ---
 
 Cette application web permet de rechercher un bien, faire estimer son bien ou demander d'être recontacter pour vendre son bien.
-Le processus de recherche de biens de cette application est un peu différente de ce que l'on peut voir habituellement, en effet, la recherche s'effectue via un chat qui va poser des questions à l'utilisateur sur les caractéristiques du bien recherché. Suite à cela, les informations sont transmises au Credit Agricole et des biens correspondant aux critères sont proposées.
+
+Le processus de recherche de biens de cette application est un peu différente de ce que l'on peut voir habituellement. 
+En effet, la recherche s'effectue via un chat qui va poser des questions à l'utilisateur sur les caractéristiques du bien recherché. 
+Suite à cela, les informations sont transmises au Credit Agricole et des biens correspondant aux critères sont proposées.
 
 Pour la recherche de biens et l'estimation d'un bien, l'outil est cablé à une API.
 
