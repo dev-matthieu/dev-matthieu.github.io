@@ -1,4 +1,4 @@
-Il y a un peu plus d'une dizaine d'années, j'ai commencé le développement informatique en m'orientant assez rapidement vers le Web.
+Il y a un peu plus d'une quinzaine d'années, j'ai commencé le développement informatique en m'orientant assez rapidement vers le Web.
 
 J'ai rejoint l'agence Highfive en tant que Développeur web en 2013 pour effectuer mon stage de fin de Licence professionnelle. A la suite de celui-ci, j'ai entrepris mon Master en alternance puis j'ai intégré l'agence en CDI.
 
@@ -38,7 +38,7 @@ Nom du projet (explications) | URL du projet
 
 Création d'une application web pour les conseillers des Caisses Régionales du Crédit Agricole. 
 
-Lors d'un rendez-vous avec un client, le conseiller présent les différentes solutions disponibles, l'application va permettre de présenter ces solutions au client, grâce à un formulaire en plusieurs étapes. Les solutions sont présentés sur l'application sous forme de roue, une fois que toutes les questions ont été posé, le système va proposer des solutions adaptées. Le conseiller pourra ensuite exporté au format PDF les informations sur les solutions pour les imprimer et les transmettre au client.
+Lors d'un rendez-vous avec un client, le conseiller présente les différentes solutions disponibles, l'application va permettre de présenter ces solutions au client, grâce à un formulaire en plusieurs étapes. Les solutions sont présentées sur l'application sous forme de roue, une fois que toutes les questions ont été posé, le système va proposer des solutions adaptées. Le conseiller pourra ensuite exporter au format PDF les informations sur les solutions pour les imprimer et les transmettre au client.
 
 L'application dispose aussi d'une "Boîte à outils" avec différents types de documents pour les conseillers et d'une rubrique "Actualités".
 
