@@ -2,7 +2,7 @@ Il y a un peu plus d'une quinzaine d'années, j'ai commencé le développement i
 
 J'ai rejoint l'agence Highfive en tant que Développeur web en 2013 pour effectuer mon stage de fin de Licence professionnelle. A la suite de celui-ci, j'ai entrepris mon Master en alternance puis j'ai intégré l'agence en CDI.
 
-En 2022, souhaitant du changement, j'ai intégré l'agence Casus Belli en tant que Développeur Full-Stack.
+En 2022, en quête de changement, j'ai intégré l'agence Casus Belli en tant que Développeur Full-Stack.
 
 Depuis 2020, parallèlement à mon poste, j'ai commencé à encadrer des TPs à raison d'une demie-journée par semaine dans le cadre de la Licence Informatique de la Fac de Caen. J'interviens auprès des TPs : 
 - En Licence 3 au premier semestre, pour les cours "Bases de la programmation côté serveur avec le langage PHP" puis "Programmation d’applications web avancées" plus récemment,
@@ -176,7 +176,7 @@ Suite à la sortie de Vivre dans le Calvados, nous avons mis en place le systèm
 
 Pour la sortie du site Calvados Tourisme, nous avons developpé un jeu concours que nous avons développé sur mesure. Il s'agissait pour l'internaute, de naviguer sur le site et de trouver trois illustrations (et cliquer dessus), une fois qu'il avait trouvé ces trois illustrations, il y avait un formulaire d'inscription pour participer à un tirage au sort.
 
-Actuellement, je m'occupe des demandes d'évolutions sur les deux sites et leurs maintenances.
+Pendant plusieurs années, je me suis occupé des demandes d'évolutions sur les deux sites et leurs maintenances.
 
 Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été réalisé, en suivant les recommandations d'une agence spécialisée.
 
