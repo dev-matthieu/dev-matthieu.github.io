@@ -33,7 +33,7 @@ Nom du projet (explications) | URL du projet
 ### BACK / DEV SUR MESURE
 ---
 
-#### CAPS E-Store (Crédit Agricole Payement Services) <a name="back-caps-roue"></a>
+#### CAPS E-Store (Crédit Agricole Payement Services) _(Casus Belli)_ <a name="back-caps-roue"></a>
 ---
 
 Création d'une application web pour les conseillers des Caisses Régionales du Crédit Agricole. 
@@ -48,7 +48,7 @@ La partie Front de l'application a été réalisé en React et la partie Back et
 
 _L'application n'est pas disponible sur Internet, elle est uniquement déployée en interne au sein du Crédit Agricole_
 
-#### CACL Hub Immo (Crédit Agricole Centre Loire) <a name="back-cacl-hub-immo"></a>
+#### CACL Hub Immo (Crédit Agricole Centre Loire) _(Casus Belli)_ <a name="back-cacl-hub-immo"></a>
 ---
 
 Cette application web permet de rechercher un bien, faire estimer son bien ou demander d'être recontacter pour vendre son bien.
@@ -63,7 +63,7 @@ La partie Front de l'application a été réalisé en React et Laravel et la par
 
 [monespaceimmo.ca-centreloire.fr](https://monespaceimmo.ca-centreloire.fr/){:target="_blank" rel="noopener"}
 
-#### Extranet Coopcreully <a name="back-extranet-coopcreully"></a>
+#### Extranet Coopcreully _(Highfive)_ <a name="back-extranet-coopcreully"></a>
 ---
 
 Création d'une application web à disposition des adhérents de la Coopérative agricole de Creully. 
@@ -78,7 +78,7 @@ Le framework Laravel a été utilisé pour ce projet.
 
 [extranet.coopcreully.com](https://extranet.coopcreully.com/){:target="_blank" rel="noopener"}
 
-#### Calendrier des brocantes (admin)
+#### Calendrier des brocantes (admin) _(Highfive)_
 ---
 
 Reprise du projet développé par un autre développeur de l'agence.<br />
@@ -93,7 +93,7 @@ Le framework Laravel a été utilisé pour ce projet.
 
 [orga.calendrier-des-brocantes.com](https://orga.calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
 
-#### Espace producteur Terroirs de Lait (Savencia)
+#### Espace producteur Terroirs de Lait (Savencia) _(Highfive)_
 ---
 
 Reprise du projet développé par un autre développeur de l'agence.<br />
@@ -109,7 +109,7 @@ Le framework Laravel a été utilisé pour ce projet.
 
 [pro.terroirs-de-lait.com](https://pro.terroirs-de-lait.com/){:target="_blank" rel="noopener"}
 
-#### Espace membre du Pôle Hippolia <a name="back-espace-membre-pole-hippolia"></a>
+#### Espace membre du Pôle Hippolia _(Highfive)_ <a name="back-espace-membre-pole-hippolia"></a>
 ---
 
 Création d'une application web à disposition des membres du Pole Hippolia.
@@ -126,7 +126,7 @@ Le framework Symfony a été utilisé pour ce projet.
 
 [espacemembre.pole-hippolia.org](https://espacemembre.pole-hippolia.org/){:target="_blank" rel="noopener"}
 
-#### Extranet du CEMC
+#### Extranet du CEMC _(Highfive)_
 ---
 
 Reprise du projet développé par un autre développeur de l'agence. <br />
@@ -156,7 +156,7 @@ Ils s'agissaient d'espaces privés de partages de documents, de formulaires spé
 
 Pour la plupart des projets présentés, le CMS WordPress a été utilisé.
 
-#### Calvados Tourisme & Vivre dans le Calvados
+#### Calvados Tourisme & Vivre dans le Calvados _(Highfive)_
 ---
 
 Reprise du projet développé par un autre développeur de l'agence. <br />
@@ -183,7 +183,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 - [calvados-tourisme.com](https://www.calvados-tourisme.com/){:target="_blank" rel="noopener"}
 - [vivredanslecalvados.com](https://www.vivredanslecalvados.com/){:target="_blank" rel="noopener"}
 
-#### Chemins de la Baie
+#### Chemins de la Baie _(Highfive)_
 ---
 
 Développement d'un site sur WordPress avec de l'e-commerce (WooCoomerce) et une liaison à une API.
@@ -197,7 +197,7 @@ Une partie éditoriale est aussi présente sur le site.
 
 [cheminsdelabaie.com](https://www.cheminsdelabaie.com/){:target="_blank" rel="noopener"}
 
-#### Calendrier des brocantes 
+#### Calendrier des brocantes _(Highfive)_
 ---
 
 Développement d'un site sur WoordPress avec de l'e-commerce (WooCommerce) et une laison à un webservice.
@@ -216,7 +216,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 
 [calendrier-des-brocantes.com](https://calendrier-des-brocantes.com/){:target="_blank" rel="noopener"}
 
-#### Mon Stage dans la Manche
+#### Mon Stage dans la Manche _(Highfive)_
 ---
 
 Développement d'une plateforme d'offres de stages, où les lycéens peuvent s'inscrire et postuler à des offres et où les entreprises peuvent proposer des offres de stages, gérer les candidatures.
@@ -225,7 +225,7 @@ Sur ce site, on sort du cadre classique de WordPress, avec une utilisation plus 
 
 [stage.maviedanslamanche.fr](https://stage.maviedanslamanche.fr/){:target="_blank" rel="noopener"}
 
-#### Ma vie dans la Manche
+#### Ma vie dans la Manche _(Highfive)_
 ---
 
 Reprise du projet développé par un autre développeur de l'agence.
@@ -236,21 +236,21 @@ Parmi, les évolutions, j'ai développé un import d'offres d'emplois venant de 
 
 _Le projet n'est plus disponible, il a fusionné avec Latitude Manche_
 
-#### Turfu Festival
+#### Turfu Festival _(Casus Belli)_
 ---
 
 Travail sur le thème existant du site pour l'édition 2023 : changement des couleurs, système revu pour les partenaires, les rencontre, refonte de l'agenda.
 
 [turfu-festival.fr](https://turfu-festival.fr/){:target="_blank" rel="noopener"}
 
-#### Armada (Cyber infogérance)
+#### Armada (Cyber infogérance) _(Case Belli)_
 ----
 
 Développement d'un site vitrine pour une entreprise d'infogérance.
 
 [armada.info](https://www.armada.info/){:target="_blank" rel="noopener"}
 
-#### Normandinamik
+#### Normandinamik _(Highfive)_
 ---
 
 Refonte d'un site d'articles d'actualités des entreprises et de l'économie en Normandie.
@@ -261,7 +261,7 @@ Sur ce site, un travail de SEO un peu plus conséquent qu'habituellement a été
 
 [normandinamik.cci.fr](https://www.normandinamik.cci.fr/){:target="_blank" rel="noopener"}
 
-#### Fédération des guides de Normandie
+#### Fédération des guides de Normandie _(Highfive)_
 ---
 
 Développement d'un site présentant les guides de l'assocation. 
@@ -270,7 +270,7 @@ Chaque guide a un compte sur le site, avec son compte, il peut gérer sa fiche, 
 
 [guidesdenormandie.fr](https://guidesdenormandie.fr/){:target="_blank" rel="noopener"}
 
-#### Adepta
+#### Adepta _(Highfive)_
 ---
 
 Développement d'un site constitué de plusieurs sous-sites (grâce à la fonctionnalité Multi-site de WordPress).
@@ -280,7 +280,7 @@ Les sous-sites partagent un même thème avec une même typologie de site avec d
 
 _Le projet n'est plus disponible l'Adepta a fusioné avec une autre entité_
 
-#### Calvados (intégration HTML, CSS & JS)
+#### Calvados (intégration HTML, CSS & JS) _(Highfive)_
 ---
 
 Intégration HTML, CSS, JS des maquettes pour le site du département Calvados.
@@ -293,7 +293,7 @@ Les gabarits sont utilisés sur plusieurs sites du département.
 - [vieuxlaromaine.fr](https://www.vieuxlaromaine.fr/accueil.html){:target="_blank" rel="noopener"}
 - [archives.calvados.fr](https://archives.calvados.fr/){:target="_blank" rel="noopener"}
 
-#### Festou (Intérim & Recrutement)
+#### Festou (Intérim & Recrutement) _(Highfive)_
 ---
 
 Développement de sites d'offres d'emplois saisis dans l'administration du site et des offres venant de webservices.
@@ -304,7 +304,7 @@ Développement de sites d'offres d'emplois saisis dans l'administration du site 
 #### Divers
 ---
 
-- [Pôle TES ](https://www.pole-tes.com/){:target="_blank" rel="noopener"}
+- [Pôle TES](https://www.pole-tes.com/){:target="_blank" rel="noopener"}
 - [Centre François Baclesse](https://www.baclesse.fr/){:target="_blank" rel="noopener"}
 - [Space Villers](https://www.space-villers.fr/){:target="_blank" rel="noopener"}
 - [Villers-sur-Mer](https://www.villers-sur-mer.fr/){:target="_blank" rel="noopener"}
@@ -325,7 +325,7 @@ Cela est en partie dû au fait qu'il faille se maintenir constamment à jour sur
 De plus, leurs premières publications et leurs mises à jours (quelques mois, voir années après) de celles-ci ne sont pas toujours des plus simples.<br />
 Je pense que ça m'intéresserait de travailler à nouveau sur des applications mobiles si je travaille régulièrement dessus.
 
-#### Application mobile GéoMares
+#### Application mobile GéoMares _(Highfive)_
 ---
 
 Développement d'une application mobile pour répertorier les mares.
@@ -344,7 +344,7 @@ L'application n'est accessible que sur Android pour le moment :
 
 [Google Play](https://play.google.com/store/apps/details?id=fr.highfive.geomares){:target="_blank" rel="noopener"}
 
-#### Application mobile Mam'route
+#### Application mobile Mam'route _(Highfive)_
 ---
 
 Développement d'une application mobile pour déclarer les animaux morts sur les routes.
@@ -371,7 +371,7 @@ L'application n'est maintenant disponible que sur Android :
 J'ai aussi été amené à travailler sur des applications pour le Mémorial de Caen. 
 _Ces applications ne sont plus disponibles._
 
-##### Application mobile Mémorial Audioguides
+##### Application mobile Mémorial Audioguides _(Highfive)_
 ---
 
 Développement de deux applications mobiles audioguide pour les expositions : 
@@ -385,7 +385,7 @@ Ces deux applications mobiles ont été créées avec [React Native](https://rea
 
 _Des captures d'écrans sont disponibles sur le site web d'Highfive : [highfive.fr](https://www.highfive.fr/portfolio/expo-norman-rockwell/){:target="_blank" rel="noopener"}_
 
-##### Application mobile Mémorial
+##### Application mobile Mémorial _(Highfive)_
 ---
 
 Développement de l'application du Mémorial de Caen.
